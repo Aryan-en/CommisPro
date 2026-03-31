@@ -1,0 +1,21 @@
+item,item_category,commit_flex,commission_logic
+Google Cloud Platform,GCP,Commit,Standard GCP commission — eligible within 1 year of quote close date
+Google Workspace Business Starter,GWS,Commit,Standard GWS commission — eligible within 1 month of quote close date
+Google Workspace Business Plus,GWS,Commit,Standard GWS commission — eligible within 1 month of quote close date
+Google Workspace Business Standard,GWS,Commit,Standard GWS commission — eligible within 1 month of quote close date
+Google Workspace Enterprise,GWS,Commit,Standard GWS commission — eligible within 1 month of quote close date
+Google Workspace Enterprise Plus,GWS,Commit,Standard GWS commission — eligible within 1 month of quote close date
+Gemini for Google Workspace,Gemini,Commit,Gemini commission — eligible within 1 month of quote close date
+Gemini Advanced,Gemini,Flex,Gemini commission — eligible within 1 month of quote close date
+BigQuery,GCP,Commit,Standard GCP commission — eligible within 1 year of quote close date
+Looker,GCP,Commit,Standard GCP commission — eligible within 1 year of quote close date
+Professional Services,Services,Flex,All invoices eligible — 50% margin applied
+Managed Services,Services,Flex,All invoices eligible — 50% margin applied
+Training Services,Services,Flex,All invoices eligible — 50% margin applied
+Implementation Services,Services,Flex,All invoices eligible — 50% margin applied
+Rebate - GCP,Rebate,Flex,No commission — rebate items excluded
+Rebate - GWS,Rebate,Flex,No commission — rebate items excluded
+Google Maps Platform,GCP,Flex,Standard GCP commission — eligible within 1 year of quote close date
+Chronicle Security,GCP,Commit,Standard GCP commission — eligible within 1 year of quote close date
+Vertex AI,GCP,Commit,Standard GCP commission — eligible within 1 year of quote close date
+AppSheet,GWS,Flex,Standard GWS commission — eligible within 1 month of quote close date

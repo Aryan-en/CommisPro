@@ -1,0 +1,734 @@
+customer.name,customer.number,date,currency,amount,balance,reference,method,source,status,notes,applied_to,document_number,credit_note,applied_amount
+"Fix Auto",CUST-00715,2025-12-31,cad,20625,0,PM01REPMV5K5QV,direct_debit,autopay,applied,,invoice,3394,,20625
+"Detmar Logistics LLC",CUST-00939,2025-12-30,usd,1436.4,0,PM01RD7ZSK3N00,direct_debit,customer_portal,applied,,invoice,3353,,1436.4
+Astraeus,CUST-00760,2025-12-30,usd,1606.08,0,PM01RD5GFDPVD0,direct_debit,autopay,applied,,invoice,3048,,1606.08
+"US Mall",CUST-00041,2025-12-30,usd,72883.94,0,W8HCNHJXN3CH9RG6,credit_card,customer_portal,applied,,invoice,3194,,72883.94
+"Laz LLC",CUST-01032,2025-12-30,usd,0,0,,other,keyed,applied,,credit_note,3153,CN-106,1
+Uniblox,CUST-00835,2025-12-30,usd,41.88,0,PM01RBG6RYH5F8,direct_debit,customer_portal,applied,,invoice,3340,,41.88
+"Oak Essentials",CUST-00091,2025-12-29,usd,192,0,,other,accounting_system,applied,,invoice,3383,,192
+"Argo AI",CUST-00548,2025-12-27,usd,16.32,16.32,PM01R7D1CXJGHE,direct_debit,autopay,voided,,,,,
+"Kikori, Inc.",CUST-00721,2025-12-27,usd,104.42,0,PM01R7D1CTMH70,direct_debit,autopay,applied,,invoice,3324,,104.42
+"Market Ads LLC",CUST-00017,2025-12-27,usd,7931.56,7931.56,PM01R7D1CP3J77,direct_debit,autopay,voided,,,,,
+"BREAKING HITS",CUST-00224,2025-12-27,usd,1285.63,1285.63,PM01R7D1CREJ5V,direct_debit,autopay,voided,,,,,
+"Shiza AI",CUST-00030,2025-12-27,usd,581.47,0,PM01R7D1CKCRZS,direct_debit,autopay,applied,,invoice,2287,,581.47
+Google,CUST-00011,2025-12-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0069588,,5500
+Google,CUST-00011,2025-12-26,usd,3845,0,,other,accounting_system,applied,,invoice,FR-0070231,,3845
+Google,CUST-00011,2025-12-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0070230,,5500
+Google,CUST-00011,2025-12-26,usd,3465,0,,other,accounting_system,applied,,invoice,FR-0069610,,3465
+Google,CUST-00011,2025-12-26,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0069364,,2500
+Google,CUST-00011,2025-12-26,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0063090,,5000
+Google,CUST-00011,2025-12-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0062801,,5500
+Google,CUST-00011,2025-12-26,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0070135,,2500
+Google,CUST-00011,2025-12-26,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0069321,,5000
+"Veriswap Inc",CUST-00043,2025-12-26,usd,9447.49,9447.49,021000021,other,accounting_system,voided,,,,,
+"Medium Buying",CUST-01029,2025-12-25,usd,6775,0,PM01R5SMRZ9X2Q,direct_debit,autopay,applied,,invoice,3392,,6775
+"BabyFlix Media Inc.",CUST-00795,2025-12-25,usd,2400.01,2400.01,PM01R51RSSF30V,direct_debit,virtual_terminal,voided,,,,,
+"Bright Arrow",CUST-00980,2025-12-24,usd,2500,0,PM01R49PR9WTBV,direct_debit,autopay,applied,,invoice,3185,,2500
+Couchsurfing,CUST-00225,2025-12-24,usd,46935.49,0,,other,accounting_system,applied,,invoice,3197,,46935.49
+Tactiq,CUST-00865,2025-12-24,usd,8500,0,,other,accounting_system,applied,,invoice,3396,,8500
+Hillspire,CUST-00720,2025-12-24,usd,23645.38,0,,other,accounting_system,applied,,invoice,3202,,23645.38
+"Swift Beat, LLC",CUST-00915,2025-12-24,usd,613.89,0,,other,accounting_system,applied,,invoice,3286,,613.89
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-12-24,usd,10347,0,,other,accounting_system,applied,,invoice,3395,,10347
+"Wasteology Group Transportation, LLC",CUST-00944,2025-12-23,usd,5659.5,0,C8N3HQDXTRMBGQP9,credit_card,autopay,applied,,invoice,3391,,5659.5
+32flavors.com,CUST-00952,2025-12-23,usd,750,0,PM01R0WHM73ZSG,direct_debit,autopay,applied,,invoice,3389,,750
+"Time Definite Services, Inc.",CUST-01067,2025-12-23,usd,2500,0,PM01R0WHNA6T5K,direct_debit,autopay,applied,,invoice,3390,,2500
+"Jeenie Inc",CUST-00975,2025-12-22,usd,10000,0,,other,accounting_system,applied,,invoice,3196,,10000
+"Jeenie Inc",CUST-00975,2025-12-22,usd,10000,0,,other,accounting_system,applied,,invoice,3196,,10000
+"Jeenie Inc",CUST-00975,2025-12-22,usd,10000,0,,other,accounting_system,applied,,invoice,3196,,10000
+"Jeenie Inc",CUST-00975,2025-12-22,usd,10000,0,,other,accounting_system,applied,,invoice,3196,,10000
+Exirio,CUST-00550,2025-12-22,usd,988.86,0,WSXZJ5H3HDVXS9G3,credit_card,autopay,applied,,invoice,3271,,988.86
+"LASHTRED INC",CUST-00190,2025-12-21,usd,3655.81,0,QF8LC9VQ7L52KZQ9,credit_card,autopay,applied,,invoice,3237,,3655.81
+"Portland Leather Goods, LLC",CUST-00932,2025-12-20,usd,2.56,0,PM01QWT1MBY2DR,direct_debit,autopay,applied,,invoice,3364,,2.56
+EngineBI,CUST-00719,2025-12-20,usd,3.94,0,PM01QWT1M12ADG,direct_debit,autopay,applied,,invoice,3363,,3.94
+"Dragnex LLC",CUST-00551,2025-12-20,usd,5.99,0,PM01QWT1KVG69H,direct_debit,autopay,applied,,invoice,3359,,5.99
+"CookingSocial LLC",CUST-00793,2025-12-20,usd,5.67,0,PM01QWT1KXFBX0,direct_debit,autopay,applied,,invoice,3360,,5.67
+"Argo AI",CUST-00548,2025-12-20,usd,16.32,16.32,PM01QWT1KRZV0N,direct_debit,autopay,voided,,,,,
+"Jessica Ammerman (Individual)",CUST-01047,2025-12-20,usd,12.19,0,PM01QWT1KT423D,direct_debit,autopay,applied,,invoice,3358,,12.19
+"Roin inc.",CUST-00913,2025-12-20,usd,18.22,0,PM01QWT1KK2TAS,direct_debit,autopay,applied,,invoice,3354,,18.22
+smartstay.ai,CUST-00220,2025-12-20,usd,24.24,0,PM01QWT1KDFQAT,direct_debit,autopay,applied,,invoice,3351,,24.24
+"Chris Aburime & Partners, LLC",CUST-00192,2025-12-20,usd,34.95,0,PM01QWT1K9AXK2,direct_debit,autopay,applied,,invoice,3348,,34.95
+"Snow City Arts",CUST-00882,2025-12-20,usd,36,0,PM01QWT1K5NBXQ,direct_debit,autopay,applied,,invoice,3347,,36
+"Intrinsic First",CUST-00469,2025-12-20,usd,37.35,0,PM01QWT1K3YJPF,direct_debit,autopay,applied,,invoice,3344,,37.35
+"RedwoodAI LLC",CUST-00985,2025-12-20,usd,37.17,0,PM01QWT1K4MTP5,direct_debit,autopay,applied,,invoice,3345,,37.17
+"Vibrant Ink",CUST-00477,2025-12-20,usd,40.28,0,PM01QWT1K0JC3K,direct_debit,autopay,applied,,invoice,3342,,40.28
+"Panova.ai Corporation",CUST-01058,2025-12-20,usd,55.79,0,PM01QWT1JN3EVC,direct_debit,autopay,applied,,invoice,3336,,55.79
+"BUNKER BROTHERS",CUST-01019,2025-12-20,usd,59.22,0,PM01QWT1JHF5C7,direct_debit,autopay,applied,,invoice,3332,,59.22
+"Bamba Travel Inc",CUST-00969,2025-12-20,usd,65.48,0,PM01QWT1J54CVK,direct_debit,autopay,applied,,invoice,3330,,65.48
+"Mind Over Media",CUST-00782,2025-12-20,usd,64.88,0,PM01QWT1JACXHX,direct_debit,autopay,applied,,invoice,3331,,64.88
+"P2 Labs, Inc - See Produce",CUST-00673,2025-12-20,usd,77.33,0,PM01QWT1HX5WG8,direct_debit,autopay,applied,,invoice,3328,,77.33
+Courtroom5,CUST-01000,2025-12-20,usd,73.57,0,PM01QWT1J1615A,direct_debit,autopay,applied,,invoice,3329,,73.57
+"Synergy Companies",CUST-00754,2025-12-20,usd,82.4,0,PM01QWT1HQ7X7R,direct_debit,autopay,applied,,invoice,3327,,82.4
+"Sonoran Sleep Center",CUST-00923,2025-12-20,usd,90.86,0,PM01QWT1HGXVFW,direct_debit,autopay,applied,,invoice,3326,,90.86
+"Kikori, Inc.",CUST-00721,2025-12-20,usd,104.42,104.42,PM01QWT1H4BT0B,direct_debit,autopay,voided,,,,,
+Astraeus,CUST-00760,2025-12-20,usd,112.7,0,PM01QWT1GZ8EXW,direct_debit,autopay,applied,,invoice,3323,,112.7
+Idea9,CUST-00854,2025-12-20,usd,121.64,0,PM01QWT1GRF024,direct_debit,autopay,applied,,invoice,3322,,121.64
+"Element Science",CUST-00935,2025-12-20,usd,142.67,0,PM01QWT1G68JBB,direct_debit,autopay,applied,,invoice,3319,,142.67
+NextBoard,CUST-00650,2025-12-20,usd,164.01,0,PM01QWT1FRYX3G,direct_debit,autopay,applied,,invoice,3318,,164.01
+"Fine Art Labs",CUST-00194,2025-12-20,usd,161.53,0,PM01QWT1FANBT4,direct_debit,autopay,applied,,invoice,3316,,161.53
+CognitiveHealth,CUST-00861,2025-12-20,usd,249.49,0,PM01QWT1F7Y6YS,direct_debit,autopay,applied,,invoice,3313,,249.49
+"Myna, Inc.",CUST-00630,2025-12-20,usd,236.56,0,PM01QWT1F4TT8A,direct_debit,autopay,applied,,invoice,3312,,236.56
+Mechanomind,CUST-00802,2025-12-20,usd,285.32,0,PM01QWT1EN4R1A,direct_debit,autopay,applied,,invoice,3311,,285.32
+"Blue-Line AI",CUST-00837,2025-12-20,usd,317.8,0,PM01QWT1CZ4ZR4,direct_debit,autopay,applied,,invoice,3305,,317.8
+Sandstorm,CUST-00784,2025-12-20,usd,314.39,0,PM01QWT1CB0KVY,direct_debit,autopay,applied,,invoice,3303,,314.39
+"Finwello Inc.",CUST-00670,2025-12-20,usd,372.7,0,PM01QWT1C2Q4CH,direct_debit,autopay,applied,,invoice,3301,,372.7
+VividClone.AI,CUST-00901,2025-12-20,usd,352.16,0,PM01QWT1C7XW43,direct_debit,autopay,applied,,invoice,3302,,352.16
+"OnService Solutions, LLC",CUST-00443,2025-12-20,usd,392.54,0,PM01QWT1BX80QW,direct_debit,autopay,applied,,invoice,3300,,392.54
+LitLab.ai,CUST-00672,2025-12-20,usd,473.69,0,PM01QWT1BJ6WEW,direct_debit,autopay,applied,,invoice,3298,,473.69
+BluMint,CUST-00187,2025-12-20,usd,517.67,0,PM01QWT1BE3TWK,direct_debit,autopay,applied,,invoice,3296,,517.67
+"Quantum Hedging",CUST-00848,2025-12-20,usd,494.49,0,PM01QWT1B4HG1P,direct_debit,autopay,applied,,invoice,3295,,494.49
+"TetherEducation Inc.",CUST-01014,2025-12-20,usd,519.15,0,PM01QWT1AQ4NCB,direct_debit,autopay,applied,,invoice,3293,,519.15
+Realty85,CUST-00803,2025-12-20,usd,590.66,0,PM01QWT19KYZTT,direct_debit,autopay,applied,,invoice,3290,,590.66
+UpMerch,CUST-00120,2025-12-20,usd,560.05,0,PM01QWT19C7BGX,direct_debit,autopay,applied,,invoice,3288,,560.05
+"Doctome, Inc",CUST-00788,2025-12-20,usd,765.95,0,PM01QWT18DS4R6,direct_debit,autopay,applied,,invoice,3281,,765.95
+"Easy Caller",CUST-00123,2025-12-20,usd,863.64,0,PM01QWT188SS7G,direct_debit,autopay,applied,,invoice,3276,,863.64
+NoteWriter,CUST-00144,2025-12-20,usd,910.83,0,PM01QWT18968G5,direct_debit,autopay,applied,,invoice,3277,,910.83
+"NorthLight Analytic Partners Inc",CUST-00735,2025-12-20,usd,934.63,0,PM01QWT185RHZZ,direct_debit,autopay,applied,,invoice,3273,,934.63
+"Mebot AI Corp",CUST-00172,2025-12-20,usd,931.86,0,PM01QWT187PRXE,direct_debit,autopay,applied,,invoice,3274,,931.86
+TrueRoll,CUST-00671,2025-12-20,usd,936.52,0,PM01QWT183J66C,direct_debit,autopay,applied,,invoice,3272,,936.52
+stompers.app,CUST-00463,2025-12-20,usd,1153.94,0,PM01QWT17V9ZX5,direct_debit,autopay,applied,,invoice,3268,,1153.94
+"Quaerite, Inc",CUST-00903,2025-12-20,usd,1233.26,0,PM01QWT17Y49D5,direct_debit,autopay,applied,,invoice,3269,,1233.26
+"Medium Buying",CUST-01029,2025-12-20,usd,1179.17,0,PM01QWT17QB8SW,direct_debit,autopay,applied,,invoice,3267,,1179.17
+CloudQA,CUST-00451,2025-12-20,usd,1300.34,0,PM01QWT17GK0Q7,direct_debit,autopay,applied,,invoice,3265,,1300.34
+"BREAKING HITS",CUST-00224,2025-12-20,usd,1285.63,1285.63,PM01QWT17J5CR5,direct_debit,autopay,voided,,,,,
+CandleScience,CUST-00177,2025-12-20,usd,1311.24,0,PM01QWT17B4767,direct_debit,autopay,applied,,invoice,3262,,1311.24
+"Satellites Unlimited",CUST-00867,2025-12-20,usd,1305.68,0,PM01QWT17EH0HH,direct_debit,autopay,applied,,invoice,3264,,1305.68
+"Archetype Agency LLC.",CUST-00857,2025-12-20,usd,1636.98,0,PM01QWT16QBDC8,direct_debit,autopay,applied,,invoice,3260,,1636.98
+FYES.com,CUST-00676,2025-12-20,usd,1668.6,0,PM01QWT16441CT,direct_debit,autopay,applied,,invoice,3258,,1668.6
+"Artnition LLC",CUST-00683,2025-12-20,usd,1799.47,0,PM01QWT15X5F6K,direct_debit,autopay,applied,,invoice,3256,,1799.47
+"Knoa Software Inc.",CUST-00767,2025-12-20,usd,1840.25,0,PM01QWT163XABW,direct_debit,autopay,applied,,invoice,3257,,1840.25
+"Edge, LLC",CUST-01037,2025-12-20,usd,1774.31,0,PM01QWT159PNFJ,direct_debit,autopay,applied,,invoice,3255,,1774.31
+BrilliantBiome,CUST-00668,2025-12-20,usd,2112.15,0,PM01QWT14EYVXD,direct_debit,autopay,applied,,invoice,3251,,2112.15
+"Lyzr Inc",CUST-00850,2025-12-20,usd,2326.85,0,PM01QWT146ARZF,direct_debit,autopay,applied,,invoice,3250,,2326.85
+"SessionKeeper LLC",CUST-00704,2025-12-20,usd,2658.8,0,PM01QWT13RG02M,direct_debit,autopay,applied,,invoice,3247,,2658.8
+"Firstoutcomes, LLC",CUST-00826,2025-12-20,usd,2771.16,0,PM01QWT13S534J,direct_debit,autopay,applied,,invoice,3248,,2771.16
+Knit.ai,CUST-00691,2025-12-20,usd,2955.79,0,PM01QWT13GBY6Y,direct_debit,autopay,applied,,invoice,3244,,2955.79
+RoboSig,CUST-00696,2025-12-20,usd,3573.01,0,PM01QWT12BWXRZ,direct_debit,autopay,applied,,invoice,3238,,3573.01
+"Futra Solutions, Inc.",CUST-00474,2025-12-20,usd,3687.68,0,PM01QWT119WRT6,direct_debit,autopay,applied,,invoice,3236,,3687.68
+"Hatz Ai",CUST-00743,2025-12-20,usd,6806.3,0,PM01QWT0YJ8HG4,direct_debit,autopay,applied,,invoice,3225,,6806.3
+"Sway (formerly Returnmates)",CUST-00216,2025-12-20,usd,7433.38,0,PM01QWT0Y7YZHY,direct_debit,autopay,applied,,invoice,3223,,7433.38
+"Strategic Systems & Technology",CUST-00886,2025-12-20,usd,7387.15,0,PM01QWT0YBNAEJ,direct_debit,autopay,applied,,invoice,3224,,7387.15
+"Cross Insurance",CUST-00791,2025-12-20,usd,7502.24,0,PM01QWT0Y3K652,direct_debit,autopay,applied,,invoice,3222,,7502.24
+"Market Ads LLC",CUST-00017,2025-12-20,usd,7931.56,7931.56,PM01QWT0XNJFQ8,direct_debit,autopay,voided,,,,,
+"Lasso MD",CUST-00212,2025-12-20,usd,9095.28,0,PM01QWT0W6BNSK,direct_debit,autopay,applied,,invoice,3218,,9095.28
+JuiceMind,CUST-00211,2025-12-20,usd,13453.13,0,PM01QWT0S4EDWV,direct_debit,autopay,applied,,invoice,3211,,13453.13
+"Premia Finance",CUST-00930,2025-12-20,usd,21688.92,0,PM01QWT0PR3EH5,direct_debit,autopay,applied,,invoice,3205,,21688.92
+"Number Sentry",CUST-00628,2025-12-20,usd,22286.09,0,PM01QWT0NZPGVD,direct_debit,autopay,applied,,invoice,3204,,22286.09
+"Shiza AI",CUST-00030,2025-12-20,usd,581.47,581.47,PM01QWTTVD4R11,direct_debit,autopay,voided,,,,,
+"Remar Corp",CUST-00095,2025-12-20,usd,0.62,0,11499025432,credit_card,autopay,applied,,invoice,3370,,0.62
+Indigo,CUST-00701,2025-12-20,usd,19.6,0,B7BQ2MP69HRBDSQ9,credit_card,autopay,applied,,invoice,3352,,19.6
+GlueStick,CUST-00082,2025-12-20,usd,32.41,0,81374056658,ach,autopay,applied,,invoice,3349,,32.41
+Oloround,CUST-00022,2025-12-20,usd,38.73,0,MX0027757369,credit_card,autopay,applied,,invoice,3346,,38.73
+"Payoff Genius",CUST-00175,2025-12-20,usd,44.21,0,81374056611,ach,autopay,applied,,invoice,3341,,44.21
+"Slung AI, Inc.",CUST-01018,2025-12-20,usd,44.9,0,MS93MFGLFNNV5PQ9,credit_card,autopay,applied,,invoice,3339,,44.9
+"Film Snap",CUST-00160,2025-12-20,usd,57.05,0,TCXLSG4BZ2S8HGP9,credit_card,autopay,applied,,invoice,3334,,57.05
+"Pennsylvania Voice",CUST-00130,2025-12-20,usd,86.22,0,B74J558859S56PP9,credit_card,autopay,applied,,invoice,3325,,86.22
+"Prime Time Media Networks Incorporated",CUST-00818,2025-12-20,usd,126.42,0,QDSMPG4BZ2S8HGP9,credit_card,autopay,applied,,invoice,3321,,126.42
+"Maximum Effort",CUST-00663,2025-12-20,usd,159.89,0,M7L2GFGLFNNV5PQ9,credit_card,autopay,applied,,invoice,3317,,159.89
+soundethics.ai,CUST-00518,2025-12-20,usd,217.14,0,11499022060,credit_card,autopay,applied,,invoice,3315,,217.14
+"Allied Industrial Group",CUST-00105,2025-12-20,usd,279.43,0,81374056458,ach,autopay,applied,,invoice,3309,,279.43
+"Thynk Capital LLC",CUST-00103,2025-12-20,usd,285.78,0,11499021398,credit_card,autopay,applied,,invoice,3308,,285.78
+LootMogul,CUST-00180,2025-12-20,usd,607.42,0,KVHTJG4BZ2S8HGP9,credit_card,autopay,applied,,invoice,3306,,607.42
+"Coral Vita",CUST-00223,2025-12-20,usd,322.95,0,H6NQT48859S56PP9,credit_card,autopay,applied,,invoice,3304,,322.95
+"Misapplied Sciences, Inc.",CUST-00215,2025-12-20,usd,416.04,0,KQ72NVCGP4QDX9Q9,credit_card,autopay,applied,,invoice,3299,,416.04
+"The Perfect Shipping Inc",CUST-00182,2025-12-20,usd,460.24,0,81374056333,ach,autopay,applied,,invoice,3297,,460.24
+ToandFrom,CUST-00139,2025-12-20,usd,536.02,0,NQK9DG4BZ2S8HGP9,credit_card,autopay,applied,,invoice,3294,,536.02
+"Datacabinet Corporation",CUST-00078,2025-12-20,usd,523.22,0,MW0027756111,credit_card,autopay,applied,,invoice,3292,,523.22
+"Nellie Health LLC",CUST-00982,2025-12-20,usd,545.77,0,W7GT2ZPMBVFZW6Q9,credit_card,autopay,applied,,invoice,3291,,545.77
+"Runzy, Inc.",CUST-00747,2025-12-20,usd,685.48,0,WFJH9LP69HRBDSQ9,credit_card,autopay,applied,,invoice,3284,,685.48
+PopShap,CUST-00165,2025-12-20,usd,708.65,0,MW0027756109,credit_card,autopay,applied,,invoice,3283,,708.65
+"Axion Data Services",CUST-00112,2025-12-20,usd,839.69,0,TW558LP69HRBDSQ9,credit_card,autopay,applied,,invoice,3278,,839.69
+"Propel Business Intelligence",CUST-00025,2025-12-20,usd,1694.17,0,MV0027705938,credit_card,autopay,applied,,invoice,3259,,1694.17
+"Nobex Technologies",CUST-00718,2025-12-20,usd,1965.47,0,R63M4WXM9GPPWKP9,credit_card,autopay,applied,,invoice,3253,,1965.47
+"bERZZANI, INC.",CUST-00697,2025-12-20,usd,2182.45,0,HD964WXM9GPPWKP9,credit_card,autopay,applied,,invoice,3252,,2182.45
+WebforceHQ,CUST-00108,2025-12-20,usd,2507.23,0,MX0027757357,credit_card,autopay,applied,,invoice,3249,,2507.23
+Eduready360,CUST-00154,2025-12-20,usd,3225.61,0,81374056043,ach,autopay,applied,,invoice,3241,,3225.61
+"Caffeine, Inc.",CUST-00006,2025-12-20,usd,3334.52,0,81374056027,ach,autopay,applied,,invoice,3240,,3334.52
+"Peer Supply, Inc.",CUST-00764,2025-12-20,usd,3910.53,0,F42DWVXM9GPPWKP9,credit_card,autopay,applied,,invoice,3239,,3910.53
+"AFrameSoftware, LLC",CUST-00002,2025-12-20,usd,4135.82,0,HPDQ448859S56PP9,credit_card,autopay,applied,,invoice,3235,,4135.82
+"Geosimple Inc",CUST-00761,2025-12-20,usd,4317.32,0,GDD8WTCGP4QDX9Q9,credit_card,autopay,applied,,invoice,3234,,4317.32
+"Wasteology Group Transportation, LLC",CUST-00944,2025-12-20,usd,4726.51,0,RW4VNF4BZ2S8HGP9,credit_card,autopay,applied,,invoice,3232,,4726.51
+"1080 Network, Inc (d.b.a. Mica)",CUST-00111,2025-12-20,usd,5025.79,0,11499014625,credit_card,autopay,applied,,invoice,3231,,5025.79
+"Dovr Media",CUST-00079,2025-12-20,usd,5226.62,0,1afv85cdiedt,ach,autopay,applied,,invoice,3229,,5226.62
+Kovaak,CUST-00109,2025-12-20,usd,5654.42,0,V2GMN8KCGPG9GQP9,ach,autopay,applied,,invoice,3228,,5654.42
+Clipbook,CUST-00137,2025-12-20,usd,8922.7,0,TVM9VQWTTRMBGQP9,credit_card,autopay,applied,,invoice,3220,,8922.7
+"The Bus Network LLC",CUST-00037,2025-12-20,usd,8616.18,0,1afv85apyk4r,ach,autopay,applied,,invoice,3219,,8616.18
+"Veriswap Inc",CUST-00043,2025-12-20,usd,9294.21,0,11499013465,credit_card,autopay,applied,,invoice,3217,,9294.21
+MyLogIQ,CUST-00446,2025-12-20,usd,9872.53,0,11499013246,credit_card,autopay,applied,,invoice,3216,,9872.53
+RXNT,CUST-00107,2025-12-20,usd,10350.02,0,QNXDQQWTTRMBGQP9,credit_card,autopay,applied,,invoice,3214,,10350.02
+"The AAM Group",CUST-00155,2025-12-20,usd,12066.05,0,KQ3TR38859S56PP9,credit_card,autopay,applied,,invoice,3213,,12066.05
+IronWiFi,CUST-00014,2025-12-20,usd,11883.53,0,C2BDR38859S56PP9,credit_card,autopay,applied,,invoice,3212,,11883.53
+Backbone,CUST-00230,2025-12-20,usd,14081.54,0,81374055766,ach,autopay,applied,,invoice,3210,,14081.54
+"After Transparency",CUST-00072,2025-12-20,usd,17385.76,0,NNPVX8HSX3WKDSP9,credit_card,autopay,applied,,invoice,3209,,17385.76
+"Longitude Ads",CUST-00085,2025-12-20,usd,12427.11,0,81374055734,ach,autopay,applied,,invoice,3208,,12427.11
+Elate,CUST-00221,2025-12-20,usd,19220.57,0,11499011518,credit_card,autopay,applied,,invoice,3207,,19220.57
+ECRI,CUST-00170,2025-12-20,usd,19767.91,0,81374055710,ach,autopay,applied,,invoice,3206,,19767.91
+"World 50",CUST-00128,2025-12-20,usd,22682.71,0,WPZZS8HSX3WKDSP9,credit_card,autopay,applied,,invoice,3203,,22682.71
+"Ragie Corp",CUST-00933,2025-12-20,usd,23866.55,0,PM01QWT0NKWFGP,direct_debit,autopay,applied,,invoice,3201,,23866.55
+Variphy,CUST-00042,2025-12-20,usd,35703.37,0,1afv85554v9s,ach,autopay,applied,,invoice,3199,,35703.37
+"Wodify Technologies, LLC",CUST-00685,2025-12-20,usd,26010.8,0,PM01QWT0NFZHJ4,direct_debit,autopay,applied,,invoice,3200,,26010.8
+"Switchboard Public Benefit Corp",CUST-00033,2025-12-20,usd,84308.89,0,PM01QWT0MSY6BJ,direct_debit,autopay,applied,,invoice,3193,,84308.89
+"EnrollHere Inc",CUST-00493,2025-12-20,usd,40170.39,0,PM01QWT0N0CESR,direct_debit,autopay,applied,,invoice,3198,,40170.39
+"Trinity Underwriting Managers",CUST-00957,2025-12-20,cad,6.79,0,PM01QWT0MJEGK3,direct_debit,autopay,applied,,invoice,3362,,6.79
+"Approval Pathway Data Processing Inc.",CUST-00894,2025-12-20,cad,852.78,0,PM01QWT0MG2Q8K,direct_debit,autopay,applied,,invoice,3287,,852.78
+"Lately, Inc",CUST-00800,2025-12-20,usd,823.86,0,PM01QWM7C9DFBK,direct_debit,autopay,applied,,invoice,3282,,823.86
+PureSEM,CUST-00494,2025-12-20,usd,1485.7,0,PM01QWM7BN08P5,direct_debit,autopay,applied,,invoice,3280,,1485.7
+"Tetra Films Inc.",CUST-00998,2025-12-19,usd,15.11,0,TX2H3FCJS7ZXG6X3,credit_card,autopay,applied,,invoice,3356,,15.11
+"Hybrid Tech Solutions Ltd.",CUST-00445,2025-12-19,usd,1292.9,0,11497750577,credit_card,autopay,applied,,invoice,3279,,1292.9
+"Gradient Health",CUST-00815,2025-12-19,usd,133170.64,0,PM01QWM7B2W6PD,direct_debit,autopay,applied,,invoice,3192,,133170.64
+"Jukebox Health",CUST-00461,2025-12-19,usd,6786.17,0,PM01QWM7B5ZMN3,direct_debit,autopay,applied,,invoice,3246,,6786.17
+EngageCX,CUST-00173,2025-12-19,usd,4602.03,0,PM01QWGTEEY834,direct_debit,customer_portal,applied,,invoice,3263,,4602.03
+"Sunrise Motorsports",CUST-00717,2025-12-19,usd,971.52,0,PM01QW99MT31G9,direct_debit,autopay,applied,,invoice,3387,,971.52
+"Fora Travel",CUST-00439,2025-12-19,usd,309122.77,0,PM01QW99N8XTSA,direct_debit,autopay,applied,,invoice,3388,,309122.77
+SimInsights,CUST-00974,2025-12-19,usd,333.75,0,PM01QW99MD6F71,direct_debit,autopay,applied,,invoice,3386,,333.75
+"Mendrix, Inc.",CUST-00440,2025-12-19,usd,8.4,0,PM01QW99J6PSGN,direct_debit,autopay,applied,,invoice,3385,,8.4
+"Papa Haydn",CUST-00763,2025-12-19,usd,137.17,0,DWRDG5ZWHSNNQ5F3,credit_card,autopay,applied,,invoice,3384,,137.17
+"NZXT, Inc.",CUST-00708,2025-12-19,usd,9472.56,0,GTMQ993M6ZXHD6G3,credit_card,autopay,applied,,invoice,3382,,9472.56
+"Leverage with Media PR",CUST-00881,2025-12-19,usd,266.77,0,PM01QW99DBF1Z5,direct_debit,autopay,applied,,invoice,3380,,266.77
+michellegerson.com,CUST-00946,2025-12-19,usd,179.65,0,PM01QW99DK5XAW,direct_debit,autopay,applied,,invoice,3381,,179.65
+"IndyGeneUS AI",CUST-00750,2025-12-19,usd,167.9,0,PM01QW99CTARAV,direct_debit,autopay,applied,,invoice,3379,,167.9
+"Five Borough FP",CUST-00762,2025-12-19,usd,210.78,0,PM01QW99C07QZX,direct_debit,autopay,applied,,invoice,3376,,210.78
+hovisauto.com,CUST-01015,2025-12-19,usd,1018.96,0,PM01QW99CGAGRD,direct_debit,autopay,applied,,invoice,3378,,1018.96
+micro1,CUST-00231,2025-12-19,usd,3267,0,PM01QW99BC4AVE,direct_debit,autopay,applied,,invoice,3374,,3267
+fitasy.ai,CUST-00792,2025-12-19,usd,330,0,PM01QW99BPWZC8,direct_debit,autopay,applied,,invoice,3375,,330
+"Detmar Logistics LLC",CUST-00939,2025-12-19,usd,1436.4,1436.4,PM01QW99AQ1J2D,direct_debit,autopay,voided,,,,,
+"Expert Micro1",CUST-00918,2025-12-19,usd,23824.89,0,PM01QW99B3HFBS,direct_debit,autopay,applied,,invoice,3373,,23824.89
+"Secured Health",CUST-00460,2025-12-19,usd,919.01,0,PM01QW99ACMSCM,direct_debit,autopay,applied,,invoice,3314,,919.01
+"Hawx Smart Pest Control",CUST-00736,2025-12-19,usd,82593.54,0,PM01QW99A2HH9A,direct_debit,autopay,applied,,invoice,3195,,82593.54
+DocuSketch,CUST-00467,2025-12-19,usd,5875.5,0,,other,accounting_system,applied,,invoice,3368,,5875.5
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-12-19,usd,11460.38,0,,other,accounting_system,applied,,invoice,3377,,11460.38
+"Jeenie Inc",CUST-00975,2025-12-19,usd,9038.47,0,,other,accounting_system,applied,,invoice,3196,,9038.47
+"Jeenie Inc",CUST-00975,2025-12-19,usd,10000,0,,other,accounting_system,applied,,invoice,3196,,10000
+32flavors.com,CUST-00952,2025-12-19,usd,1396.88,0,PM01QVVSDXXX1T,direct_debit,autopay,applied,,invoice,3335,,1396.88
+"Agri Flight LLC",CUST-00905,2025-12-17,usd,2.21,0,PM01QRSHDPH6Z7,direct_debit,virtual_terminal,applied,,invoice,3151,,1.1
+,,,,,,,,,,,invoice,3367,,1.11
+w8less,CUST-00191,2025-12-17,usd,3.22,0,PM01QRSFYFCNF7,direct_debit,virtual_terminal,applied,,invoice,3150,,1.73
+,,,,,,,,,,,invoice,3365,,1.49
+"CURE International, Inc.",CUST-00009,2025-12-17,usd,2968.57,0,,other,accounting_system,applied,,invoice,3243,,2968.57
+"Cerebros Proof Inc",CUST-00703,2025-12-17,usd,0,0,,other,keyed,applied,,credit_note,1831,CN-105,268.93
+"Cerebros Proof Inc",CUST-00703,2025-12-17,usd,0,0,,other,keyed,applied,,credit_note,2020,CN-104,269.69
+"Cerebros Proof Inc",CUST-00703,2025-12-17,usd,0,0,,other,keyed,applied,,credit_note,2170,CN-103,176.07
+"Cerebros Proof Inc",CUST-00703,2025-12-17,usd,0,0,,other,keyed,applied,,credit_note,2336,CN-102,166.71
+"Cerebros Proof Inc",CUST-00703,2025-12-17,usd,0,0,,other,keyed,applied,,credit_note,2383,CN-101,153.77
+"Cerebros Proof Inc",CUST-00703,2025-12-17,usd,0,0,,other,keyed,applied,,credit_note,2496,CN-100,151.05
+DocuSketch,CUST-00467,2025-12-15,usd,879.75,0,,other,accounting_system,applied,,invoice,3368,,879.75
+"VIZ Media, LLC.",CUST-00044,2025-12-15,usd,5507.61,0,,other,accounting_system,applied,,invoice,3227,,5507.61
+"VIZ Media, LLC.",CUST-00044,2025-12-15,usd,2810.81,0,,other,accounting_system,applied,,invoice,3245,,2810.81
+"Jenni Kayne",CUST-00084,2025-12-15,usd,344.44,0,,other,accounting_system,applied,,invoice,3333,,344.44
+"BREAKING HITS",CUST-00224,2025-12-14,usd,1311.27,1311.27,PM01QMFD4D9SB5,direct_debit,autopay,voided,,,,,
+"SigNoz Inc",CUST-00031,2025-12-14,usd,137579.06,0,PM01QMC7367V9Z,direct_debit,customer_portal,applied,,invoice,3191,,137579.06
+"Shiza AI",CUST-00030,2025-12-13,usd,581.47,0,PM01QM5H1S9HTY,direct_debit,autopay,applied,,invoice,2287,,581.47
+"Market Ads LLC",CUST-00017,2025-12-12,usd,9978.6,9978.6,PM01QKWX2WWRB1,direct_debit,customer_portal,voided,,,,,
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-12-12,usd,9500,0,,other,accounting_system,applied,,invoice,3187,,9500
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-12-12,usd,3920,0,,other,accounting_system,applied,,invoice,3189,,3920
+"Pitch Inc.",CUST-00449,2025-12-11,usd,38.05,0,SFTSL6B6LM2WTZF3,credit_card,virtual_terminal,applied,,invoice,3343,,38.05
+"US Mall",CUST-00041,2025-12-10,usd,60848.73,0,X39PKCCNXG8XPVG6,credit_card,customer_portal,applied,,invoice,2985,,60848.73
+enertribe.com,CUST-01036,2025-12-09,usd,9500,0,PM01QFRCNYDJMX,direct_debit,customer_portal,applied,,invoice,3184,,9500
+"Argo AI",CUST-00548,2025-12-09,usd,17.42,17.42,PM01QFJWNS290R,direct_debit,autopay,voided,,,,,
+Astraeus,CUST-00760,2025-12-09,usd,1574.59,1574.59,PM01QFJWN9D2YE,direct_debit,autopay,voided,,,,,
+"Shiza AI",CUST-00030,2025-12-09,usd,581.47,581.47,PM01QFJWN0D2RY,direct_debit,autopay,voided,,,,,
+"AI Endurance Inc",CUST-00810,2025-12-08,usd,1889.72,0,PM01QEM1XBYMWS,direct_debit,customer_portal,applied,,invoice,3254,,1889.72
+"eData Services US, LLC",CUST-00920,2025-12-04,usd,18750,0,766,ach,keyed,applied,"paid directly via ACH on 12/05/2025",invoice,3190,,18750
+"Longitude Ads",CUST-00085,2025-12-04,usd,0,0,,other,keyed,applied,,credit_note,3208,CN-098,7827.12
+"BREAKING HITS",CUST-00224,2025-12-04,usd,1311.27,1311.27,PM01QA1N0TK4BR,direct_debit,autopay,voided,,,,,
+"Longitude Ads",CUST-00085,2025-12-04,usd,0,0,,other,accounting_system,voided,"Created by QB Online to link credits to charges.",,,,
+"Shiza AI",CUST-00030,2025-12-03,usd,581.47,581.47,PM01Q86VDZQHXC,direct_debit,autopay,voided,,,,,
+"Thought Foundry, Inc.",CUST-00039,2025-12-03,usd,4305.59,0,,other,accounting_system,applied,,invoice,3023,,4305.59
+"eData Services US, LLC",CUST-00920,2025-12-03,usd,0,0,,other,keyed,applied,,credit_note,2944,CN-099,2.47
+"Sculpta, Inc.",CUST-00843,2025-12-02,usd,2.03,0,PM01Q6ASMGB5CY,direct_debit,virtual_terminal,applied,,invoice,2945,,2.03
+"Jeenie Inc",CUST-00975,2025-12-01,usd,66572.69,0,,other,accounting_system,applied,,invoice,2984,,66572.69
+PromptLayer,CUST-00940,2025-11-30,usd,1.2,0,LGH4HH3JK6L58XW3,credit_card,customer_portal,applied,,invoice,3152,,1.2
+"Argo AI",CUST-00548,2025-11-30,usd,17.42,17.42,PM01Q25108426H,direct_debit,autopay,voided,,,,,
+Astraeus,CUST-00760,2025-11-30,usd,1574.59,1574.59,PM01Q25104J3QK,direct_debit,autopay,voided,,,,,
+"Detmar Logistics LLC",CUST-00939,2025-11-29,usd,6809.6,0,PM01Q1K2MZFWZ2,direct_debit,autopay,applied,,invoice,3182,,6809.6
+"Tetra Films Inc.",CUST-00998,2025-11-28,usd,18.89,0,XT4493PCHZ2HZ4R9,credit_card,autopay,applied,,invoice,3135,,18.89
+"Jeenie Inc",CUST-00975,2025-11-28,usd,100,0,,other,accounting_system,applied,,invoice,2984,,100
+DocuSketch,CUST-00467,2025-11-28,usd,6709.83,0,,other,accounting_system,applied,,invoice,3159,,6709.83
+Nava,CUST-01041,2025-11-28,usd,6095,0,,other,accounting_system,applied,,invoice,3181,,6095
+"Tetra Films Inc.",CUST-00998,2025-11-27,usd,2.55,0,SWX58X3VD6P8V8Q9,credit_card,customer_portal,applied,,invoice,2943,,2.55
+"Access Consciousness LLC.",CUST-01038,2025-11-27,usd,9267.65,0,RDV23C3XJR38CPG6,credit_card,autopay,applied,,invoice,3183,,9267.65
+"Mendrix, Inc.",CUST-00440,2025-11-26,usd,8.4,0,PM01PWQC6QJDF8,direct_debit,autopay,applied,,invoice,3173,,8.4
+"Evil Genius Games",CUST-00769,2025-11-26,usd,59.82,0,PM01PWQC6EK6J0,direct_debit,autopay,applied,,invoice,3118,,59.82
+"BabyFlix Media Inc.",CUST-00795,2025-11-26,usd,1880.54,1880.54,PM01PWQC67BH19,direct_debit,autopay,voided,,,,,
+"BREAKING HITS",CUST-00224,2025-11-26,usd,1311.27,1311.27,PM01PWQC6BS91D,direct_debit,autopay,voided,,,,,
+"Shiza AI",CUST-00030,2025-11-26,usd,581.47,581.47,PM01PWQC5TJY4R,direct_debit,autopay,voided,,,,,
+"Premia Finance",CUST-00930,2025-11-26,usd,15210.22,0,PM01PWQC5ZXRGM,direct_debit,autopay,applied,,invoice,2997,,15210.22
+Google,CUST-00011,2025-11-26,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0068659,,2500
+Google,CUST-00011,2025-11-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0070137,,5500
+Google,CUST-00011,2025-11-26,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0068754,,5000
+Google,CUST-00011,2025-11-26,usd,23125,0,,other,accounting_system,applied,,invoice,FR-0070134,,23125
+Google,CUST-00011,2025-11-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0070114,,5500
+Google,CUST-00011,2025-11-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0070238,,5500
+Google,CUST-00011,2025-11-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0067987,,5500
+Google,CUST-00011,2025-11-26,usd,3000,0,,other,accounting_system,applied,,invoice,FR-0068404,,3000
+Google,CUST-00011,2025-11-26,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0062453,,2500
+Google,CUST-00011,2025-11-26,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0069124,,5500
+Google,CUST-00011,2025-11-26,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0068617,,5000
+Google,CUST-00011,2025-11-26,usd,8890,0,,other,accounting_system,applied,,invoice,FR-0068682,,8890
+Google,CUST-00011,2025-11-26,usd,7000,0,,other,accounting_system,applied,,invoice,FR-0067051,,7000
+Google,CUST-00011,2025-11-26,usd,12500,0,,other,accounting_system,applied,,invoice,FR-0068305,,12500
+Google,CUST-00011,2025-11-26,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0069205,,5000
+Google,CUST-00011,2025-11-26,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0069313,,5000
+Google,CUST-00011,2025-11-26,usd,24500,0,,other,accounting_system,applied,,invoice,FR-0064897,,24500
+Google,CUST-00011,2025-11-26,usd,1274,0,,other,accounting_system,applied,,invoice,2574,,1274
+Google,CUST-00011,2025-11-26,usd,22761.44,0,,other,accounting_system,applied,,invoice,3186,,22761.44
+Astraeus,CUST-00760,2025-11-26,usd,955.37,0,PM01PT5JRJC4N4,direct_debit,autopay,applied,,invoice,2868,,955.37
+Couchsurfing,CUST-00225,2025-11-24,usd,111627.94,0,,other,accounting_system,applied,,invoice,2982,,111627.94
+Playworks,CUST-01034,2025-11-24,usd,5500,0,,other,accounting_system,applied,,invoice,2971,,5500
+"Market Ads LLC",CUST-00017,2025-11-23,usd,8212.21,0,PM01PMAAH5MEDF,direct_debit,autopay,applied,,invoice,3008,,8212.21
+"Argo AI",CUST-00548,2025-11-22,usd,17.42,17.42,PM01PM3BCTA1BS,direct_debit,autopay,voided,,,,,
+Astraeus,CUST-00760,2025-11-22,usd,1574.59,1574.59,PM01PM3BCMGSVX,direct_debit,autopay,voided,,,,,
+"Hybrid Tech Solutions Ltd.",CUST-00445,2025-11-22,usd,1014.13,0,11394222432,credit_card,autopay,applied,,invoice,3178,,1014.13
+"Mebot AI Corp",CUST-00172,2025-11-22,usd,871.41,0,PM01PM1HPP9PKY,direct_debit,autopay,applied,,invoice,3069,,871.41
+Linklegals,CUST-00849,2025-11-21,usd,6063.2,0,PM01PKQAHY0006,direct_debit,autopay,applied,,invoice,3155,,6063.2
+"Market Ads LLC",CUST-00017,2025-11-21,usd,9978.6,9978.6,PM01PKM87QZWNK,direct_debit,customer_portal,voided,,,,,
+IronWiFi,CUST-00014,2025-11-21,usd,12122.31,0,XZ5568V836M99BF3,credit_card,autopay,applied,,invoice,2999,,12122.31
+"Medium Buying",CUST-01029,2025-11-20,usd,275.19,0,PM01PJ75DPVER8,direct_debit,customer_portal,applied,,invoice,3091,,275.19
+SimInsights,CUST-00974,2025-11-20,usd,183.27,0,PM01PHZP3K3RCH,direct_debit,autopay,applied,,invoice,3175,,183.27
+"Sunrise Motorsports",CUST-00717,2025-11-20,usd,962.32,0,PM01PHZP34HWJB,direct_debit,autopay,applied,,invoice,3174,,962.32
+"Mendrix, Inc.",CUST-00440,2025-11-20,usd,8.4,8.4,PM01PHZP2NS7Y3,direct_debit,autopay,voided,,,,,
+micro1,CUST-00231,2025-11-20,usd,1883.13,0,PM01PHZP0Z6NX3,direct_debit,autopay,applied,,invoice,3168,,1883.13
+michellegerson.com,CUST-00946,2025-11-20,usd,179.65,0,PM01PHZP0EKSYJ,direct_debit,autopay,applied,,invoice,3167,,179.65
+"Leverage with Media PR",CUST-00881,2025-11-20,usd,273.41,0,PM01PHZNYMGE2J,direct_debit,autopay,applied,,invoice,3166,,273.41
+hovisauto.com,CUST-01015,2025-11-20,usd,995.45,0,PM01PHZNW9SHFW,direct_debit,autopay,applied,,invoice,3164,,995.45
+"Five Borough FP",CUST-00762,2025-11-20,usd,210.78,0,PM01PHZNTZ6NG4,direct_debit,autopay,applied,,invoice,3162,,210.78
+fitasy.ai,CUST-00792,2025-11-20,usd,112,0,PM01PHZNSXMBTE,direct_debit,autopay,applied,,invoice,3161,,112
+"Expert Micro1",CUST-00918,2025-11-20,usd,22100,0,PM01PHZNR8JACC,direct_debit,autopay,applied,,invoice,3160,,22100
+32flavors.com,CUST-00952,2025-11-20,usd,1299.14,0,PM01PHZNJM9CAA,direct_debit,autopay,applied,,invoice,3157,,1299.14
+"Dragnex LLC",CUST-00551,2025-11-20,usd,6.1,0,PM01PHZN25S84E,direct_debit,autopay,applied,,invoice,3146,,6.1
+"Covalent Bonds LLC",CUST-00711,2025-11-20,usd,2.57,0,PM01PHZN30YRRW,direct_debit,autopay,applied,,invoice,3147,,2.57
+"Sculpta, Inc.",CUST-00843,2025-11-20,usd,6.39,0,PM01PHZN1AKCV8,direct_debit,autopay,applied,,invoice,3145,,6.39
+"FastPix Inc",CUST-00695,2025-11-20,usd,8.56,0,PM01PHZMZTD9BC,direct_debit,autopay,applied,,invoice,3141,,8.56
+EngineBI,CUST-00719,2025-11-20,usd,6.71,0,PM01PHZN0JVBB5,direct_debit,autopay,applied,,invoice,3144,,6.71
+"CookingSocial LLC",CUST-00793,2025-11-20,usd,11.87,0,PM01PHZMY8JG60,direct_debit,autopay,applied,,invoice,3138,,11.87
+"Fine Art Labs",CUST-00194,2025-11-20,usd,9.63,0,PM01PHZMZ2TGH9,direct_debit,autopay,applied,,invoice,3139,,9.63
+"Argo AI",CUST-00548,2025-11-20,usd,17.42,17.42,PM01PHZMXCRBBD,direct_debit,autopay,voided,,,,,
+"Roin inc.",CUST-00913,2025-11-20,usd,17.74,0,PM01PHZMWA16M2,direct_debit,autopay,applied,,invoice,3136,,17.74
+"RedwoodAI LLC",CUST-00985,2025-11-20,usd,19.92,0,PM01PHZMTZ7MZC,direct_debit,autopay,applied,,invoice,3134,,19.92
+smartstay.ai,CUST-00220,2025-11-20,usd,24.83,0,PM01PHZMT8F6DS,direct_debit,autopay,applied,,invoice,3133,,24.83
+"Edge, LLC",CUST-01037,2025-11-20,usd,25.53,0,PM01PHZMNYCVBD,direct_debit,autopay,applied,,invoice,3132,,25.53
+"Chris Aburime & Partners, LLC",CUST-00192,2025-11-20,usd,35.95,0,PM01PHZMEM0M9N,direct_debit,autopay,applied,,invoice,3129,,35.95
+"Snow City Arts",CUST-00882,2025-11-20,usd,36,0,PM01PHZMAEV9MD,direct_debit,autopay,applied,,invoice,3128,,36
+"BUNKER BROTHERS",CUST-01019,2025-11-20,usd,44.56,0,PM01PHZM6W8WJC,direct_debit,autopay,applied,,invoice,3124,,44.56
+"Intrinsic First",CUST-00469,2025-11-20,usd,38.08,0,PM01PHZM7EJP8B,direct_debit,autopay,applied,,invoice,3126,,38.08
+"Vibrant Ink",CUST-00477,2025-11-20,usd,48.86,0,PM01PHZM66SA1B,direct_debit,autopay,applied,,invoice,3123,,48.86
+"OnService Solutions, LLC",CUST-00443,2025-11-20,usd,53.5,0,PM01PHZM36C1CM,direct_debit,autopay,applied,,invoice,3121,,53.5
+"Evil Genius Games",CUST-00769,2025-11-20,usd,59.82,59.82,PM01PHZM2RR5GE,direct_debit,autopay,voided,,,,,
+"Mind Over Media",CUST-00782,2025-11-20,usd,66.96,0,PM01PHZM2JY4DE,direct_debit,autopay,applied,,invoice,3114,,66.96
+"Sonoran Sleep Center",CUST-00923,2025-11-20,usd,65.55,0,PM01PHZM2NZ83X,direct_debit,autopay,applied,,invoice,3117,,65.55
+"Bamba Travel Inc",CUST-00969,2025-11-20,usd,67.17,0,PM01PHZM2EFM5X,direct_debit,autopay,applied,,invoice,3112,,67.17
+"Gophr App",CUST-00661,2025-11-20,usd,74.64,0,PM01PHZM29KBM7,direct_debit,autopay,applied,,invoice,3110,,74.64
+"Roundabout Technologies",CUST-00811,2025-11-20,usd,97.65,0,PM01PHZM1K2861,direct_debit,autopay,applied,,invoice,3108,,97.65
+"Synergy Companies",CUST-00754,2025-11-20,usd,100.03,0,PM01PHZM0MBC7C,direct_debit,autopay,applied,,invoice,3106,,100.03
+"Kikori, Inc.",CUST-00721,2025-11-20,usd,118.22,0,PM01PHZKYJAY7G,direct_debit,autopay,applied,,invoice,3104,,118.22
+Sandstorm,CUST-00784,2025-11-20,usd,103.77,0,PM01PHZKZRXN6A,direct_debit,autopay,applied,,invoice,3105,,103.77
+"TetherEducation Inc.",CUST-01014,2025-11-20,usd,119.55,0,PM01PHZKS418XP,direct_debit,autopay,applied,,invoice,3103,,119.55
+"Myna, Inc.",CUST-00630,2025-11-20,usd,134.95,0,PM01PHZKN90EER,direct_debit,autopay,applied,,invoice,3101,,134.95
+CognitiveHealth,CUST-00861,2025-11-20,usd,237.51,0,PM01PHZKG74RM1,direct_debit,autopay,applied,,invoice,3099,,237.51
+"Secured Health",CUST-00460,2025-11-20,usd,229.18,0,PM01PHZKD4ND6T,direct_debit,autopay,applied,,invoice,3097,,229.18
+NextBoard,CUST-00650,2025-11-20,usd,229.75,0,PM01PHZK836413,direct_debit,autopay,applied,,invoice,3096,,229.75
+Mechanomind,CUST-00802,2025-11-20,usd,285.97,0,PM01PHZK1V12YY,direct_debit,autopay,applied,,invoice,3092,,285.97
+Idea9,CUST-00854,2025-11-20,usd,291.67,0,PM01PHZJYCEYZN,direct_debit,autopay,applied,,invoice,3088,,291.67
+"Blue-Line AI",CUST-00837,2025-11-20,usd,362.7,0,PM01PHZJXGN6C0,direct_debit,autopay,applied,,invoice,3087,,362.7
+"Finwello Inc.",CUST-00670,2025-11-20,usd,390.44,0,PM01PHZJRZEEAM,direct_debit,autopay,applied,,invoice,3085,,390.44
+"Quantum Hedging",CUST-00848,2025-11-20,usd,508.33,0,PM01PHZJ830NCJ,direct_debit,autopay,applied,,invoice,3079,,508.33
+UpMerch,CUST-00120,2025-11-20,usd,582.09,0,PM01PHZJ349XR8,direct_debit,autopay,applied,,invoice,3076,,582.09
+BluMint,CUST-00187,2025-11-20,usd,810.22,0,PM01PHZJ2S1PH8,direct_debit,autopay,applied,,invoice,3073,,810.22
+"Lately, Inc",CUST-00800,2025-11-20,usd,866.63,0,PM01PHZJ230YHP,direct_debit,autopay,applied,,invoice,3072,,866.63
+"Mebot AI Corp",CUST-00172,2025-11-20,usd,871.41,871.41,PM01PHZJ1EXSD3,direct_debit,autopay,voided,,,,,
+"Easy Caller",CUST-00123,2025-11-20,usd,855.36,0,PM01PHZJ1J80HJ,direct_debit,autopay,applied,,invoice,3070,,855.36
+NoteWriter,CUST-00144,2025-11-20,usd,940.12,0,PM01PHZJ0N103P,direct_debit,autopay,applied,,invoice,3068,,940.12
+Realty85,CUST-00803,2025-11-20,usd,951.87,0,PM01PHZHZHWRZE,direct_debit,autopay,applied,,invoice,3067,,951.87
+"Lyzr Inc",CUST-00850,2025-11-20,usd,949.45,0,PM01PHZHYCFDEJ,direct_debit,autopay,applied,,invoice,3065,,949.45
+"Firstoutcomes, LLC",CUST-00826,2025-11-20,usd,1068.31,0,PM01PHZHQWPT36,direct_debit,autopay,applied,,invoice,3063,,1068.31
+"NorthLight Analytic Partners Inc",CUST-00735,2025-11-20,usd,1036.66,0,PM01PHZHK5DEN8,direct_debit,autopay,applied,,invoice,3061,,1036.66
+"Quaerite, Inc",CUST-00903,2025-11-20,usd,1187.07,0,PM01PHZHCT1ATE,direct_debit,autopay,applied,,invoice,3060,,1187.07
+stompers.app,CUST-00463,2025-11-20,usd,1261.44,0,PM01PHZH3Q077S,direct_debit,autopay,applied,,invoice,3057,,1261.44
+CandleScience,CUST-00177,2025-11-20,usd,1268.11,0,PM01PHZH286YBY,direct_debit,autopay,applied,,invoice,3056,,1268.11
+"BREAKING HITS",CUST-00224,2025-11-20,usd,1311.27,1311.27,PM01PHZGZ55TEM,direct_debit,autopay,voided,,,,,
+"Doctome, Inc",CUST-00788,2025-11-20,usd,1300.82,0,PM01PHZH0SDHH4,direct_debit,autopay,applied,,invoice,3055,,1300.82
+"Satellites Unlimited",CUST-00867,2025-11-20,usd,1323.94,0,PM01PHZGXR2707,direct_debit,autopay,applied,,invoice,3053,,1323.94
+CloudQA,CUST-00451,2025-11-20,usd,1488.28,0,PM01PHZGQ58FND,direct_debit,autopay,applied,,invoice,3051,,1488.28
+Astraeus,CUST-00760,2025-11-20,usd,1574.59,1574.59,PM01PHZGE01PR4,direct_debit,autopay,voided,,,,,
+FYES.com,CUST-00676,2025-11-20,usd,1737.55,0,PM01PHZG9130BY,direct_debit,autopay,applied,,invoice,3046,,1737.55
+"SessionKeeper LLC",CUST-00704,2025-11-20,usd,1738.06,0,PM01PHZG7XR4EF,direct_debit,autopay,applied,,invoice,3044,,1738.06
+"Archetype Agency LLC.",CUST-00857,2025-11-20,usd,2030.74,0,PM01PHZG5EFZ2X,direct_debit,autopay,applied,,invoice,3042,,2030.74
+"Knoa Software Inc.",CUST-00767,2025-11-20,usd,1925.71,0,PM01PHZG6NB15G,direct_debit,autopay,applied,,invoice,3043,,1925.71
+"Artnition LLC",CUST-00683,2025-11-20,usd,1995.57,0,PM01PHZG4B4WET,direct_debit,autopay,applied,,invoice,3041,,1995.57
+"BabyFlix Media Inc.",CUST-00795,2025-11-20,usd,1880.54,1880.54,PM01PHZG3J2KH0,direct_debit,autopay,voided,,,,,
+TrueRoll,CUST-00671,2025-11-20,usd,1905.81,0,PM01PHZFXPFK83,direct_debit,autopay,applied,,invoice,3039,,1905.81
+BrilliantBiome,CUST-00668,2025-11-20,usd,2366.57,0,PM01PHZFFVNKS8,direct_debit,autopay,applied,,invoice,3036,,2366.57
+Knit.ai,CUST-00691,2025-11-20,usd,2892.07,0,PM01PHZFCPWHRN,direct_debit,autopay,applied,,invoice,3032,,2892.07
+"Futra Solutions, Inc.",CUST-00474,2025-11-20,usd,3694.9,0,PM01PHZEVYR70K,direct_debit,autopay,applied,,invoice,3027,,3694.9
+RoboSig,CUST-00696,2025-11-20,usd,3715.37,0,PM01PHZENY1W8P,direct_debit,autopay,applied,,invoice,3026,,3715.37
+"Sway (formerly Returnmates)",CUST-00216,2025-11-20,usd,6967.12,0,PM01PHZD9BCKNQ,direct_debit,autopay,applied,,invoice,3015,,6967.12
+LitLab.ai,CUST-00672,2025-11-20,usd,7693.17,0,PM01PHZCXXHB18,direct_debit,autopay,applied,,invoice,3014,,7693.17
+"Strategic Systems & Technology",CUST-00886,2025-11-20,usd,7624.04,0,PM01PHZCQXQRY6,direct_debit,autopay,applied,,invoice,3011,,7624.04
+"Hatz Ai",CUST-00743,2025-11-20,usd,8926.78,0,PM01PHZCMG8MTJ,direct_debit,autopay,applied,,invoice,3009,,8926.78
+"Cross Insurance",CUST-00791,2025-11-20,usd,7633.33,0,PM01PHZCPD5AD3,direct_debit,autopay,applied,,invoice,3010,,7633.33
+JuiceMind,CUST-00211,2025-11-20,usd,8584.61,0,PM01PHZCBRGZWY,direct_debit,autopay,applied,,invoice,3007,,8584.61
+"Lasso MD",CUST-00212,2025-11-20,usd,10806.68,0,PM01PHZB9GQX5T,direct_debit,autopay,applied,,invoice,3001,,10806.68
+"Premia Finance",CUST-00930,2025-11-20,usd,15210.22,15210.22,PM01PHZ9YH10PP,direct_debit,autopay,voided,,,,,
+"Ragie Corp",CUST-00933,2025-11-20,usd,17961.43,0,PM01PHZ9AGQ0ZN,direct_debit,autopay,applied,,invoice,2995,,17961.43
+"Wodify Technologies, LLC",CUST-00685,2025-11-20,usd,25180.23,0,PM01PHZ853WPN6,direct_debit,autopay,applied,,invoice,2989,,25180.23
+"Geosimple Inc",CUST-00761,2025-11-20,usd,5534.45,0,H9446XT2V4SQF8F6,credit_card,autopay,applied,,invoice,3018,,5534.45
+"LASHTRED INC",CUST-00190,2025-11-20,usd,3051.89,0,11384437854,credit_card,customer_portal,applied,,invoice,3031,,3051.89
+"Shiza AI",CUST-00030,2025-11-20,usd,581.47,581.47,PM01PJ1SFPYA59,direct_debit,autopay,voided,,,,,
+"Papa Haydn",CUST-00763,2025-11-20,usd,122.45,0,LVKNFFLVQ8NQMHG3,credit_card,autopay,applied,,invoice,3172,,122.45
+"NZXT, Inc.",CUST-00708,2025-11-20,usd,9472.56,0,KTJHW52M9PZQRXF3,credit_card,autopay,applied,,invoice,3170,,9472.56
+LootMogul,CUST-00180,2025-11-20,usd,302.4,0,C2J8J5X736M99BF3,credit_card,autopay,applied,,invoice,3169,,302.4
+"Remar Corp",CUST-00095,2025-11-20,usd,0.6,0,11384032055,credit_card,autopay,applied,,invoice,3154,,0.6
+"The Point Group",CUST-00471,2025-11-20,usd,2.56,0,11384031853,credit_card,autopay,applied,,invoice,3148,,2.56
+GlueStick,CUST-00082,2025-11-20,usd,31.59,0,121351612244,ach,autopay,applied,,invoice,3131,,31.59
+"Pennsylvania Voice",CUST-00130,2025-11-20,usd,31.62,0,HK3TWF6744FMGLD3,credit_card,autopay,applied,,invoice,3130,,31.62
+Oloround,CUST-00022,2025-11-20,usd,75.07,0,MS0294095911,credit_card,autopay,applied,,invoice,3127,,75.07
+"Film Snap",CUST-00160,2025-11-20,usd,55.83,0,SQ4FSF6744FMGLD3,credit_card,autopay,applied,,invoice,3120,,55.83
+"Payoff Genius",CUST-00175,2025-11-20,usd,59.52,0,121351611943,ach,autopay,applied,,invoice,3119,,59.52
+Indigo,CUST-00701,2025-11-20,usd,103.05,0,RTR4V82WPBW4WBG3,credit_card,autopay,applied,,invoice,3107,,103.05
+"Prime Time Media Networks Incorporated",CUST-00818,2025-11-20,usd,121.21,0,LQRNVHJRXB7M87G3,credit_card,autopay,applied,,invoice,3102,,121.21
+soundethics.ai,CUST-00518,2025-11-20,usd,224.55,0,11384030237,credit_card,autopay,applied,,invoice,3098,,224.55
+"Allied Industrial Group",CUST-00105,2025-11-20,usd,261.63,0,121351611401,ach,autopay,applied,,invoice,3093,,261.63
+"Thynk Capital LLC",CUST-00103,2025-11-20,usd,279.96,0,11384029883,credit_card,autopay,applied,,invoice,3090,,279.96
+"Misapplied Sciences, Inc.",CUST-00215,2025-11-20,usd,426.08,0,G8VXNHJRXB7M87G3,credit_card,autopay,applied,,invoice,3084,,426.08
+"The Perfect Shipping Inc",CUST-00182,2025-11-20,usd,468.98,0,121351611098,ach,autopay,applied,,invoice,3081,,468.98
+ToandFrom,CUST-00139,2025-11-20,usd,549.46,0,TP8MP4X736M99BF3,credit_card,autopay,applied,,invoice,3080,,549.46
+"Nellie Health LLC",CUST-00982,2025-11-20,usd,558.32,0,JVG2N4X736M99BF3,credit_card,autopay,applied,,invoice,3078,,558.32
+PopShap,CUST-00165,2025-11-20,usd,547.17,0,MS0294095895,credit_card,autopay,applied,,invoice,3077,,547.17
+"Runzy, Inc.",CUST-00747,2025-11-20,usd,708.19,0,RTBBFNPXKLWKXMF3,credit_card,autopay,applied,,invoice,3074,,708.19
+"Axion Data Services",CUST-00112,2025-11-20,usd,875.48,0,ZRX8HHJRXB7M87G3,credit_card,autopay,applied,,invoice,3071,,875.48
+Exirio,CUST-00550,2025-11-20,usd,1034.06,0,DH6552583NLWJQF3,credit_card,autopay,applied,,invoice,3062,,1034.06
+"Coral Vita",CUST-00223,2025-11-20,usd,1140.87,0,RH738NPXKLWKXMF3,credit_card,autopay,applied,,invoice,3059,,1140.87
+"Datacabinet Corporation",CUST-00078,2025-11-20,usd,1565.44,0,MS0294095880,credit_card,autopay,applied,,invoice,3049,,1565.44
+"Propel Business Intelligence",CUST-00025,2025-11-20,usd,1775.74,0,MU0264329264,credit_card,autopay,applied,,invoice,3047,,1775.74
+"Nobex Technologies",CUST-00718,2025-11-20,usd,1951.04,0,RLH5HKCRXS7ZXQF3,credit_card,autopay,applied,,invoice,3038,,1951.04
+"bERZZANI, INC.",CUST-00697,2025-11-20,usd,2200.4,0,GFBLVD6744FMGLD3,credit_card,autopay,applied,,invoice,3037,,2200.4
+WebforceHQ,CUST-00108,2025-11-20,usd,2578.9,0,MQ0292156769,credit_card,autopay,applied,,invoice,3035,,2578.9
+Eduready360,CUST-00154,2025-11-20,usd,3409.92,0,121351609540,ach,autopay,applied,,invoice,3030,,3409.92
+"Peer Supply, Inc.",CUST-00764,2025-11-20,usd,3668.58,0,JX7KT72WPBW4WBG3,credit_card,autopay,applied,,invoice,3029,,3668.58
+"Caffeine, Inc.",CUST-00006,2025-11-20,usd,3277.78,0,121351609427,ach,autopay,applied,,invoice,3028,,3277.78
+"AFrameSoftware, LLC",CUST-00002,2025-11-20,usd,4391.21,0,TBBZRCLVQ8NQMHG3,credit_card,autopay,applied,,invoice,3025,,4391.21
+"Dovr Media",CUST-00079,2025-11-20,usd,4877.68,0,1adh9ykbuhgn,ach,autopay,applied,,invoice,3021,,4877.68
+"1080 Network, Inc (d.b.a. Mica)",CUST-00111,2025-11-20,usd,5199.48,0,11384026532,credit_card,autopay,applied,,invoice,3020,,5199.48
+"Wasteology Group Transportation, LLC",CUST-00944,2025-11-20,usd,5388.67,0,PV2RHZ483NLWJQF3,credit_card,autopay,applied,,invoice,3019,,5388.67
+Clipbook,CUST-00137,2025-11-20,usd,7169.1,0,FWMP3KCRXS7ZXQF3,credit_card,autopay,applied,,invoice,3016,,7169.1
+Kovaak,CUST-00109,2025-11-20,usd,6145.05,0,N9P57HQPMKFVJQF3,ach,autopay,applied,,invoice,3017,,6145.05
+"Maximum Effort",CUST-00663,2025-11-20,usd,7318.45,0,DM52L72WPBW4WBG3,credit_card,autopay,applied,,invoice,3013,,7318.45
+"Veriswap Inc",CUST-00043,2025-11-20,usd,9517.66,0,11384025721,credit_card,autopay,applied,,invoice,3005,,9517.66
+MyLogIQ,CUST-00446,2025-11-20,usd,9921.59,0,11384025691,credit_card,autopay,applied,,invoice,3004,,9921.59
+"The Bus Network LLC",CUST-00037,2025-11-20,usd,9990.07,0,1adh9y5ly0om,ach,autopay,applied,,invoice,3003,,9990.07
+RXNT,CUST-00107,2025-11-20,usd,10341.03,0,WGCG8Z483NLWJQF3,credit_card,autopay,applied,,invoice,3002,,10341.03
+"The AAM Group",CUST-00155,2025-11-20,usd,11907.62,0,DSX37Z483NLWJQF3,credit_card,autopay,applied,,invoice,3000,,11907.62
+Backbone,CUST-00230,2025-11-20,usd,14517.45,0,121351608138,ach,autopay,applied,,invoice,2998,,14517.45
+"After Transparency",CUST-00072,2025-11-20,usd,19222.24,0,LCRKQJCRXS7ZXQF3,credit_card,autopay,applied,,invoice,2996,,19222.24
+ECRI,CUST-00170,2025-11-20,usd,20528.31,0,121351607838,ach,autopay,applied,,invoice,2994,,20528.31
+Elate,CUST-00221,2025-11-20,usd,20441.09,0,11384024689,credit_card,autopay,applied,,invoice,2993,,20441.09
+"Longitude Ads",CUST-00085,2025-11-20,usd,23287.07,0,121351607716,ach,autopay,applied,,invoice,2992,,23287.07
+"World 50",CUST-00128,2025-11-20,usd,25769.27,0,PGBZM32M9PZQRXF3,credit_card,autopay,applied,,invoice,2988,,25769.27
+Variphy,CUST-00042,2025-11-20,usd,33023.05,0,1adh9xqlt4ft,ach,autopay,applied,,invoice,2986,,33023.05
+"Number Sentry",CUST-00628,2025-11-20,usd,29778.5,0,PM01PHZ80J8S67,direct_debit,autopay,applied,,invoice,2987,,29778.5
+"Gradient Health",CUST-00815,2025-11-20,usd,144654.09,0,PM01PHZ7TE3QD7,direct_debit,autopay,applied,,invoice,2979,,144654.09
+"Switchboard Public Benefit Corp",CUST-00033,2025-11-20,usd,105388.22,0,PM01PHZ7VP7CPF,direct_debit,autopay,applied,,invoice,2981,,105388.22
+"EnrollHere Inc",CUST-00493,2025-11-20,usd,40270.06,0,PM01PHZ7S5GM0W,direct_debit,autopay,applied,,invoice,2978,,40270.06
+"Approval Pathway Data Processing Inc.",CUST-00894,2025-11-20,cad,2095.57,0,PM01PHZ7QDS9RV,direct_debit,autopay,applied,,invoice,3050,,2095.57
+"Trinity Underwriting Managers",CUST-00957,2025-11-20,cad,10.2,0,PM01PHZ7QZ5MSW,direct_debit,autopay,applied,,invoice,3143,,10.2
+"Oak Essentials",CUST-00091,2025-11-20,usd,187.35,0,,other,accounting_system,applied,,invoice,3171,,187.35
+"Element Science",CUST-00935,2025-11-20,usd,145.19,0,PM01PGXNNM41CF,direct_debit,customer_portal,applied,,invoice,3100,,145.19
+"Portland Leather Goods, LLC",CUST-00932,2025-11-20,usd,3.62,0,PM01PGWRJK86P3,direct_debit,virtual_terminal,applied,,invoice,2946,,1.47
+,,,,,,,,,,,invoice,3149,,2.15
+"Detmar Logistics LLC",CUST-00939,2025-11-20,usd,1158.38,0,PM01PGZ5NHANCR,direct_debit,autopay,applied,,invoice,3158,,1158.38
+"Jukebox Health",CUST-00461,2025-11-19,usd,6684.08,0,PM01PGT8P9Z1ZS,direct_debit,autopay,applied,,invoice,3033,,6684.08
+"Hawx Smart Pest Control",CUST-00736,2025-11-19,usd,78943.62,0,PM01PGT8NEHRZJ,direct_debit,autopay,applied,,invoice,2983,,78943.62
+"Hybrid Tech Solutions Ltd.",CUST-00445,2025-11-19,usd,1014.14,0,11382703206,credit_card,autopay,applied,,invoice,3178,,1014.14
+PureSEM,CUST-00494,2025-11-19,usd,1123.97,0,PM01PGJT35NZK6,direct_debit,autopay,applied,,invoice,3179,,1123.97
+"Fora Travel",CUST-00439,2025-11-19,usd,305956.47,0,PM01PGB1Y8GHMB,direct_debit,autopay,applied,,invoice,3156,,305956.47
+EngageCX,CUST-00173,2025-11-19,usd,4450,0,LG5HP45VPBW4WBG3,credit_card,autopay,applied,,invoice,3058,,4450
+"Shiza AI",CUST-00030,2025-11-18,usd,1268.29,0,PM01PFG5D4M8ZV,direct_debit,customer_portal,applied,,invoice,2856,,1268.29
+"CURE International, Inc.",CUST-00009,2025-11-18,usd,2526.66,0,,other,accounting_system,applied,,invoice,3034,,2526.66
+"Jenni Kayne",CUST-00084,2025-11-18,usd,462.82,0,,other,accounting_system,applied,,invoice,3122,,462.82
+"P2 Labs, Inc - See Produce",CUST-00673,2025-11-18,usd,62.35,0,PM01PEKNVCJHRR,direct_debit,customer_portal,applied,,invoice,3115,,62.35
+"BREAKING HITS",CUST-00224,2025-11-17,usd,1590.46,0,PM01PE20CW03NE,direct_debit,customer_portal,applied,,invoice,2647,,1590.46
+Linklegals,CUST-00849,2025-11-17,usd,6063.2,0,PM01PE5HB8MQGT,direct_debit,autopay,applied,,invoice,3155,,6063.2
+VividClone.AI,CUST-00901,2025-11-17,usd,454.1,0,PM01PE1WJA3P3W,direct_debit,customer_portal,applied,,invoice,3082,,454.1
+"SigNoz Inc",CUST-00031,2025-11-17,usd,127288.01,0,PM01PDY1V59J4Z,direct_debit,customer_portal,applied,,invoice,2980,,127288.01
+"VIZ Media, LLC.",CUST-00044,2025-11-17,usd,8989.02,0,,other,accounting_system,applied,,invoice,3006,,8989.02
+"Longitude Ads",CUST-00085,2025-11-15,usd,3025,0,81314322834,ach,autopay,applied,,invoice,3113,,3025
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-11-14,usd,3349.75,0,,other,accounting_system,applied,,invoice,2977,,3349.75
+Tactiq,CUST-00865,2025-11-14,usd,8500,0,,other,accounting_system,applied,,invoice,2976,,8500
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-11-14,usd,11385.24,0,,other,accounting_system,applied,,invoice,3163,,11385.24
+"Oak Essentials",CUST-00091,2025-11-14,usd,180,0,,other,accounting_system,applied,,invoice,2841,,180
+Hillspire,CUST-00720,2025-11-13,usd,23940.31,0,,other,accounting_system,applied,,invoice,2990,,23940.31
+"eData Services US, LLC",CUST-00920,2025-11-13,usd,18750,0,,other,accounting_system,applied,,invoice,3180,,18750
+"Power Up Green Energy",CUST-01010,2025-11-12,usd,7.95,0,SLQVKPG7MHJ6CCG3,credit_card,customer_portal,applied,,invoice,3142,,7.95
+"Swift Beat, LLC",CUST-00915,2025-11-12,usd,441.55,0,,other,accounting_system,applied,,invoice,3083,,441.55
+"Park West Asset Management LLC",CUST-00023,2025-11-12,usd,928.56,0,,other,accounting_system,applied,,invoice,3176,,928.56
+"Park West Asset Management LLC",CUST-00023,2025-11-12,usd,4894.98,0,,other,accounting_system,applied,,invoice,3176,,4894.98
+"Park West Asset Management LLC",CUST-00023,2025-11-12,usd,3920,0,,other,accounting_system,applied,,invoice,2975,,3920
+"IndyGeneUS AI",CUST-00750,2025-11-11,usd,859.93,0,PM01P7GPND47YW,direct_debit,customer_portal,applied,,invoice,3165,,167.9
+,,,,,,,,,,,invoice,2859,,167.9
+,,,,,,,,,,,invoice,2744,,171.26
+,,,,,,,,,,,invoice,2546,,174.69
+,,,,,,,,,,,invoice,2295,,178.18
+"IndyGeneUS AI",CUST-00750,2025-11-11,usd,29.31,0,PM01P7GP51K3EN,direct_debit,customer_portal,applied,,invoice,2206,,29.31
+"Element Science",CUST-00935,2025-11-10,usd,177.2,0,PM01P6J6YFHXXC,direct_debit,customer_portal,applied,,invoice,2902,,177.2
+Omnic.AI,CUST-00929,2025-11-10,usd,51.21,0,235163,check,keyed,applied,,invoice,2913,,51.21
+Astraeus,CUST-00760,2025-11-10,usd,936.64,936.64,PM01P67TZZ6XCW,direct_debit,autopay,voided,,,,,
+"BabyFlix Media Inc.",CUST-00795,2025-11-10,usd,1280.69,1280.69,PM01P67TZHR9HT,direct_debit,autopay,voided,,,,,
+"BREAKING HITS",CUST-00224,2025-11-10,usd,1357.33,0,PM01P67TZ92B50,direct_debit,autopay,applied,,invoice,2847,,1357.33
+Playworks,CUST-01034,2025-11-08,usd,5500,5500,PM01P435CHGP2V,direct_debit,autopay,voided,,,,,
+"Swift Beat, LLC",CUST-00915,2025-11-07,usd,197.53,0,,other,accounting_system,applied,,invoice,2899,,197.53
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-11-07,usd,9500,0,,other,accounting_system,applied,,invoice,2974,,9500
+"AI Endurance Inc",CUST-00810,2025-11-07,usd,366.91,0,PM01P2T8ZGRYXD,direct_debit,customer_portal,applied,,invoice,3086,,366.91
+"Big Sur AI",CUST-00005,2025-11-06,usd,23478.21,0,,other,accounting_system,applied,,invoice,2991,,23478.21
+Playworks,CUST-01034,2025-11-06,usd,5500,5500,PM01P0WE2HNMW6,direct_debit,customer_portal,voided,,,,,
+PureSEM,CUST-00494,2025-11-05,usd,2051.04,0,,other,accounting_system,applied,,invoice,2950,,2051.04
+CognitiveHealth,CUST-00861,2025-11-04,usd,1919.85,0,PM01NZ0VTNQV44,direct_debit,customer_portal,applied,,invoice,2857,,1238.92
+,,,,,,,,,,,invoice,2669,,618.19
+,,,,,,,,,,,invoice,2505,,61.95
+,,,,,,,,,,,invoice,2366,,0.79
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-11-03,usd,3920,0,59271,check,keyed,applied,,invoice,2970,,3920
+"Thought Foundry, Inc.",CUST-00039,2025-11-03,usd,4229.9,0,,other,accounting_system,applied,,invoice,2815,,4229.9
+"US Mall",CUST-00041,2025-11-02,usd,49863.68,0,WRRQ29TQXXH6RHQ9,credit_card,customer_portal,applied,,invoice,2777,,49863.68
+PureSEM,CUST-00494,2025-10-31,usd,2051.04,2051.04,PM01NSD4K1G1KV,direct_debit,autopay,voided,,,,,
+"Argo AI",CUST-00548,2025-10-31,usd,18.13,0,PM01NSD12RQXTZ,direct_debit,autopay,applied,,invoice,2516,,18.13
+"BabyFlix Media Inc.",CUST-00795,2025-10-31,usd,1280.69,1280.69,PM01NSHM8A5A89,direct_debit,autopay,voided,,,,,
+Astraeus,CUST-00760,2025-10-31,usd,936.64,936.64,PM01NSHM8HA6VH,direct_debit,autopay,voided,,,,,
+"BREAKING HITS",CUST-00224,2025-10-31,usd,1357.33,1357.33,PM01NSHM83PS8Z,direct_debit,autopay,voided,,,,,
+"Flagger Force",CUST-00986,2025-10-31,usd,3847.1,0,,other,accounting_system,applied,,invoice,2819,,3847.1
+enertribe.com,CUST-01036,2025-10-30,usd,5000,0,PM01NRRF26ANX3,direct_debit,customer_portal,applied,,invoice,2973,,5000
+"Gophr App",CUST-00661,2025-10-30,usd,100,0,PM01NRQB1AQDS4,direct_debit,customer_portal,applied,,invoice,2907,,100
+Couchsurfing,CUST-00225,2025-10-30,usd,108849.15,0,,other,accounting_system,applied,,invoice,2774,,108849.15
+"Switchboard Public Benefit Corp",CUST-00033,2025-10-28,usd,5621.94,0,,other,accounting_system,applied,,invoice,2775,,5621.94
+"EnrollHere Inc",CUST-00493,2025-10-28,usd,1250,0,PM01NJ0J0F3R6M,direct_debit,autopay,applied,,invoice,2966,,1250
+"Switchboard Public Benefit Corp",CUST-00033,2025-10-27,usd,5621.94,5621.94,PM01NHN9C2XYS5,direct_debit,autopay,voided,,,,,
+"Grapefruit Health",CUST-00914,2025-10-27,usd,12150,0,PM01NH27S60Q00,direct_debit,customer_portal,applied,,invoice,2969,,12150
+Google,CUST-00011,2025-10-27,usd,18000,0,,other,accounting_system,applied,,invoice,GGL02,,18000
+Google,CUST-00011,2025-10-27,usd,4000,0,,other,accounting_system,applied,,invoice,FR-0062036,,4000
+Google,CUST-00011,2025-10-27,usd,14868,0,,other,accounting_system,applied,,invoice,FR-0064739,,14868
+Google,CUST-00011,2025-10-27,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0060886,,5500
+Google,CUST-00011,2025-10-27,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0068340,,5500
+Google,CUST-00011,2025-10-27,usd,3845,0,,other,accounting_system,applied,,invoice,FR-0068592,,3845
+Google,CUST-00011,2025-10-27,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0068604,,5000
+Google,CUST-00011,2025-10-27,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0067975,,2500
+Google,CUST-00011,2025-10-27,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0068085,,5000
+Google,CUST-00011,2025-10-27,usd,3000,0,,other,accounting_system,applied,,invoice,FR-0068093,,3000
+Google,CUST-00011,2025-10-27,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0069067,,5500
+Google,CUST-00011,2025-10-27,usd,4550,0,,other,accounting_system,applied,,invoice,FR-0063970,,4550
+Google,CUST-00011,2025-10-27,usd,5000,0,,other,accounting_system,applied,,invoice,FR-0064845,,5000
+Google,CUST-00011,2025-10-27,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0068110,,2500
+Google,CUST-00011,2025-10-27,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0068689,,2500
+Google,CUST-00011,2025-10-27,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0069064,,2500
+Google,CUST-00011,2025-10-27,usd,2500,0,,other,accounting_system,applied,,invoice,FR-0069223,,2500
+Google,CUST-00011,2025-10-27,usd,5500,0,,other,accounting_system,applied,,invoice,FR-0069622,,5500
+Google,CUST-00011,2025-10-27,usd,31396.33,0,,other,accounting_system,applied,,invoice,2972,,31396.33
+June,CUST-00911,2025-10-24,usd,18.81,0,CDFXDVQ253TVH9F6,credit_card,autopay,applied,,invoice,2932,,18.81
+June,CUST-00911,2025-10-24,usd,256.6,0,KWXNQBJH7V7T39F6,credit_card,autopay,applied,,invoice,2691,,256.6
+Astraeus,CUST-00760,2025-10-24,usd,936.64,936.64,PM01NCB91C5SAH,direct_debit,autopay,voided,,,,,
+"BREAKING HITS",CUST-00224,2025-10-24,usd,1357.33,1357.33,PM01NCB90WFBYP,direct_debit,autopay,voided,,,,,
+"BabyFlix Media Inc.",CUST-00795,2025-10-24,usd,1280.69,1280.69,PM01NCB9156PH4,direct_debit,autopay,voided,,,,,
+"Propel Business Intelligence",CUST-00025,2025-10-24,usd,10124.2,0,MV0024621548,credit_card,autopay,applied,,invoice,2962,,10124.2
+"Park West Asset Management LLC",CUST-00023,2025-10-23,usd,886.96,0,,other,accounting_system,applied,,invoice,2968,,886.96
+"Park West Asset Management LLC",CUST-00023,2025-10-23,usd,3033.04,0,,other,accounting_system,applied,,invoice,2968,,3033.04
+"Park West Asset Management LLC",CUST-00023,2025-10-23,usd,5495.66,0,,other,accounting_system,applied,,invoice,2813,,5495.66
+"Five Borough FP",CUST-00762,2025-10-23,usd,210.78,0,,other,accounting_system,applied,,invoice,2860,,210.78
+32flavors.com,CUST-00952,2025-10-23,usd,5837.5,0,PM01NA2WS7WFYQ,direct_debit,autopay,applied,,invoice,2964,,5837.5
+"EnrollHere Inc",CUST-00493,2025-10-23,usd,18400,0,PM01NA2WSE2048,direct_debit,autopay,applied,,invoice,2965,,18400
+"Vibrant Ink",CUST-00477,2025-10-22,usd,45.69,0,PM01N9J88DZ0RA,direct_debit,autopay,applied,,invoice,2915,,45.69
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-10-22,usd,9500,0,,other,accounting_system,applied,,invoice,2967,,9500
+"Switchboard Public Benefit Corp",CUST-00033,2025-10-22,usd,5621.94,5621.94,PM01N9185CF3W5,direct_debit,autopay,voided,,,,,
+"Hybrid Tech Solutions Ltd.",CUST-00445,2025-10-21,usd,1489.99,0,11277628080,credit_card,autopay,applied,,invoice,2951,,1489.99
+"Switchboard Public Benefit Corp",CUST-00033,2025-10-21,usd,5621.94,5621.94,PM01N7YKPXVM1T,direct_debit,virtual_terminal,voided,,,,,
+"Bamba Travel Inc",CUST-00969,2025-10-20,usd,42.93,0,PM01N76887WXY0,direct_debit,customer_portal,applied,,invoice,2917,,42.93
+"Lately, Inc",CUST-00800,2025-10-20,usd,852.35,0,PM01N71N420PDG,direct_debit,autopay,applied,,invoice,2877,,852.35
+"Lately, Inc",CUST-00800,2025-10-20,usd,876.36,0,PM01N71N2WDGF4,direct_debit,autopay,applied,,invoice,2664,,876.36
+greyball.ai,CUST-00942,2025-10-20,usd,8915,0,PM01N6Z7F2218T,direct_debit,customer_portal,applied,,invoice,2963,,8915
+"Agri Flight LLC",CUST-00905,2025-10-20,usd,2,0,PM01N6XM21VXND,direct_debit,virtual_terminal,applied,,invoice,2734,,0.91
+,,,,,,,,,,,invoice,2947,,1.09
+"Gophr App",CUST-00661,2025-10-20,usd,16.95,0,PM01N6XKM2X1HJ,direct_debit,virtual_terminal,applied,,invoice,2730,,1.94
+,,,,,,,,,,,invoice,2907,,15.01
+mavapay.co,CUST-00658,2025-10-20,usd,4.55,0,PM01N6TTKBPA4G,direct_debit,autopay,applied,,invoice,2941,,4.55
+"Singular Genomics",CUST-00462,2025-10-20,usd,2.67,0,PM01N6TTKJTFYC,direct_debit,autopay,applied,,invoice,2942,,2.67
+"Dragnex LLC",CUST-00551,2025-10-20,usd,5.93,0,PM01N6TTK2REJ9,direct_debit,autopay,applied,,invoice,2940,,5.93
+"CookingSocial LLC",CUST-00793,2025-10-20,usd,7.28,0,PM01N6TTHZTC02,direct_debit,autopay,applied,,invoice,2939,,7.28
+"Uplevel Digital Services LLC",CUST-00806,2025-10-20,usd,13.63,0,PM01N6TTGNXAZ3,direct_debit,autopay,applied,,invoice,2934,,13.63
+"Argo AI",CUST-00548,2025-10-20,usd,17.42,0,PM01N6TTGE355S,direct_debit,autopay,applied,,invoice,2933,,17.42
+smartstay.ai,CUST-00220,2025-10-20,usd,24.2,0,PM01N6TTFXQXHN,direct_debit,autopay,applied,,invoice,2929,,24.2
+"Roin inc.",CUST-00913,2025-10-20,usd,18.1,0,PM01N6TTG9SY5G,direct_debit,autopay,applied,,invoice,2931,,18.1
+"Myna, Inc.",CUST-00630,2025-10-20,usd,25.09,0,PM01N6TTFHDQCZ,direct_debit,autopay,applied,,invoice,2928,,25.09
+iTrials,CUST-00785,2025-10-20,usd,27.36,0,PM01N6TTEM2B6T,direct_debit,autopay,applied,,invoice,2927,,27.36
+"Sonoran Sleep Center",CUST-00923,2025-10-20,usd,34.7,0,PM01N6TTCRTPWN,direct_debit,autopay,applied,,invoice,2924,,34.7
+"Snow City Arts",CUST-00882,2025-10-20,usd,36,0,PM01N6TTBVZ0Q7,direct_debit,autopay,applied,,invoice,2922,,36
+"Douglas PC",CUST-00827,2025-10-20,usd,35.39,0,PM01N6TTCD862Q,direct_debit,autopay,applied,,invoice,2923,,35.39
+"Intrinsic First",CUST-00469,2025-10-20,usd,37.28,0,PM01N6TTBGZ7G2,direct_debit,autopay,applied,,invoice,2920,,37.28
+"Chris Aburime & Partners, LLC",CUST-00192,2025-10-20,usd,37.87,0,PM01N6TTB6QHDB,direct_debit,autopay,applied,,invoice,2919,,37.87
+"Vibrant Ink",CUST-00477,2025-10-20,usd,45.69,45.69,PM01N6TTAY2990,direct_debit,autopay,voided,,,,,
+"OnService Solutions, LLC",CUST-00443,2025-10-20,usd,48.42,0,PM01N6TT9VEX8G,direct_debit,autopay,applied,,invoice,2914,,48.42
+"Synergy Companies",CUST-00754,2025-10-20,usd,65.96,0,PM01N6TT8X062W,direct_debit,autopay,applied,,invoice,2910,,65.96
+"Mind Over Media",CUST-00782,2025-10-20,usd,64.8,0,PM01N6TT95AZW2,direct_debit,autopay,applied,,invoice,2911,,64.8
+EngineBI,CUST-00719,2025-10-20,usd,71.68,0,PM01N6TT80GZZ4,direct_debit,autopay,applied,,invoice,2909,,71.68
+"FastPix Inc",CUST-00695,2025-10-20,usd,116.08,0,PM01N6TT6B5C76,direct_debit,autopay,applied,,invoice,2906,,116.08
+"Kikori, Inc.",CUST-00721,2025-10-20,usd,128.89,0,PM01N6TT4KS5RN,direct_debit,autopay,applied,,invoice,2903,,128.89
+NextBoard,CUST-00650,2025-10-20,usd,217.28,0,PM01N6TT3ATCEC,direct_debit,autopay,applied,,invoice,2897,,217.28
+Mechanomind,CUST-00802,2025-10-20,usd,285.73,0,PM01N6TT2PE9S8,direct_debit,autopay,applied,,invoice,2894,,285.73
+"Blue-Line AI",CUST-00837,2025-10-20,usd,303.8,0,PM01N6TT26V59E,direct_debit,autopay,applied,,invoice,2893,,303.8
+"Quaerite, Inc",CUST-00903,2025-10-20,usd,364.62,0,PM01N6TSZB3DG2,direct_debit,autopay,applied,,invoice,2890,,364.62
+"Finwello Inc.",CUST-00670,2025-10-20,usd,372.3,0,PM01N6TSYBA09K,direct_debit,autopay,applied,,invoice,2889,,372.3
+stompers.app,CUST-00463,2025-10-20,usd,492.78,0,PM01N6TSVVVJA7,direct_debit,autopay,applied,,invoice,2885,,492.78
+"Vega Informatics",CUST-00207,2025-10-20,usd,456,0,PM01N6TSW5MWAG,direct_debit,autopay,applied,,invoice,2886,,456
+"Quantum Hedging",CUST-00848,2025-10-20,usd,494.02,0,PM01N6TSTVD6AK,direct_debit,autopay,applied,,invoice,2884,,494.02
+UpMerch,CUST-00120,2025-10-20,usd,563.17,0,PM01N6TSSJ8DPK,direct_debit,autopay,applied,,invoice,2882,,563.17
+Idea9,CUST-00854,2025-10-20,usd,575.13,0,PM01N6TSRGC6Y5,direct_debit,autopay,applied,,invoice,2880,,575.13
+NoteWriter,CUST-00144,2025-10-20,usd,908.79,0,PM01N6TSK9WT71,direct_debit,autopay,applied,,invoice,2874,,908.79
+"Easy Caller",CUST-00123,2025-10-20,usd,811.44,0,PM01N6TSKG2H01,direct_debit,autopay,applied,,invoice,2875,,811.44
+"Firstoutcomes, LLC",CUST-00826,2025-10-20,usd,958.07,0,PM01N6TSJWP0ET,direct_debit,autopay,applied,,invoice,2871,,958.07
+"NorthLight Analytic Partners Inc",CUST-00735,2025-10-20,usd,854.32,0,PM01N6TSK059XG,direct_debit,autopay,applied,,invoice,2873,,854.32
+"SessionKeeper LLC",CUST-00704,2025-10-20,usd,896.27,0,PM01N6TSJKV0XS,direct_debit,autopay,applied,,invoice,2870,,896.27
+Astraeus,CUST-00760,2025-10-20,usd,936.64,936.64,PM01N6TSJ152N2,direct_debit,autopay,voided,,,,,
+"Evil Genius Games",CUST-00769,2025-10-20,usd,931.92,0,PM01N6TSJ82RHB,direct_debit,autopay,applied,,invoice,2869,,931.92
+Realty85,CUST-00803,2025-10-20,usd,1017.24,0,PM01N6TSGJ7A8N,direct_debit,autopay,applied,,invoice,2865,,1017.24
+BluMint,CUST-00187,2025-10-20,usd,1107.35,0,PM01N6TSEZCKBF,direct_debit,autopay,applied,,invoice,2863,,1107.35
+CandleScience,CUST-00177,2025-10-20,usd,1203.68,0,PM01N6TSDQ41BF,direct_debit,autopay,applied,,invoice,2854,,1203.68
+"Mebot AI Corp",CUST-00172,2025-10-20,usd,1269.06,0,PM01N6TSCGPE5B,direct_debit,autopay,applied,,invoice,2852,,1269.06
+"Satellites Unlimited",CUST-00867,2025-10-20,usd,1294.07,0,PM01N6TSC2E1C8,direct_debit,autopay,applied,,invoice,2848,,1294.07
+"BabyFlix Media Inc.",CUST-00795,2025-10-20,usd,1280.69,1280.69,PM01N6TSC75A0P,direct_debit,autopay,voided,,,,,
+"BREAKING HITS",CUST-00224,2025-10-20,usd,1357.33,1357.33,PM01N6TSBQVKRG,direct_debit,autopay,voided,,,,,
+CloudQA,CUST-00451,2025-10-20,usd,1432.74,0,PM01N6TSABQ46W,direct_debit,autopay,applied,,invoice,2846,,1432.74
+"Knoa Software Inc.",CUST-00767,2025-10-20,usd,1835.42,0,PM01N6TS6FB7HV,direct_debit,autopay,applied,,invoice,2842,,1835.42
+Knit.ai,CUST-00691,2025-10-20,usd,1817.33,0,PM01N6TS5G0VTY,direct_debit,autopay,applied,,invoice,2837,,1817.33
+FYES.com,CUST-00676,2025-10-20,usd,1810.02,0,PM01N6TS61844F,direct_debit,autopay,applied,,invoice,2839,,1810.02
+"Artnition LLC",CUST-00683,2025-10-20,usd,1993.23,0,PM01N6TS2YGP9A,direct_debit,autopay,applied,,invoice,2834,,1993.23
+"Archetype Agency LLC.",CUST-00857,2025-10-20,usd,2069.64,0,PM01N6TRZKANXE,direct_debit,autopay,applied,,invoice,2832,,2069.64
+"Hatz Ai",CUST-00743,2025-10-20,usd,3318.9,0,PM01N6TRJ5E3EK,direct_debit,autopay,applied,,invoice,2824,,3318.9
+"Futra Solutions, Inc.",CUST-00474,2025-10-20,usd,3122.33,0,PM01N6TRESFVNW,direct_debit,autopay,applied,,invoice,2822,,3122.33
+RoboSig,CUST-00696,2025-10-20,usd,3618.32,0,PM01N6TRD90781,direct_debit,autopay,applied,,invoice,2820,,3618.32
+"Sway (formerly Returnmates)",CUST-00216,2025-10-20,usd,5108.39,0,PM01N6TR2YJX6S,direct_debit,autopay,applied,,invoice,2810,,5108.39
+LitLab.ai,CUST-00672,2025-10-20,usd,6364.84,0,PM01N6TR2MNDZB,direct_debit,autopay,applied,,invoice,2809,,6364.84
+"Cross Insurance",CUST-00791,2025-10-20,usd,7322.38,0,PM01N6TR1XQS9G,direct_debit,autopay,applied,,invoice,2806,,7322.38
+"Strategic Systems & Technology",CUST-00886,2025-10-20,usd,6935.73,0,PM01N6TR24AVEF,direct_debit,autopay,applied,,invoice,2807,,6935.73
+"Lasso MD",CUST-00212,2025-10-20,usd,7480.24,0,PM01N6TR1NTQKA,direct_debit,autopay,applied,,invoice,2805,,7480.24
+JuiceMind,CUST-00211,2025-10-20,usd,7915.39,0,PM01N6TR12D7V7,direct_debit,autopay,applied,,invoice,2803,,7915.39
+"Big Sur AI",CUST-00005,2025-10-20,usd,14464.36,0,PM01N6TR1C7054,direct_debit,autopay,applied,,invoice,2804,,14464.36
+"Premia Finance",CUST-00930,2025-10-20,usd,8785.17,0,PM01N6TR0R4MYA,direct_debit,autopay,applied,,invoice,2800,,8785.17
+"Doctome, Inc",CUST-00788,2025-10-20,usd,11105.37,0,PM01N6TQR8RJBW,direct_debit,autopay,applied,,invoice,2793,,11105.37
+"Ragie Corp",CUST-00933,2025-10-20,usd,28083.36,0,PM01N6TQDNP09K,direct_debit,autopay,applied,,invoice,2780,,28083.36
+"Wodify Technologies, LLC",CUST-00685,2025-10-20,usd,23289.76,0,PM01N6TQDXQT1C,direct_debit,autopay,applied,,invoice,2783,,23289.76
+"EnrollHere Inc",CUST-00493,2025-10-20,usd,30446.21,0,PM01N6RA85NS9D,direct_debit,autopay,applied,,invoice,2779,,30446.21
+"Shiza AI",CUST-00030,2025-10-20,usd,586.94,0,PM01N6YKJYTFP3,direct_debit,autopay,applied,,invoice,2100,,586.94
+"Switchboard Public Benefit Corp",CUST-00033,2025-10-20,usd,95000,0,1aasgn9n8ohu,ach,virtual_terminal,applied,,invoice,2775,,95000
+"Remar Corp",CUST-00095,2025-10-20,usd,0.61,0,11271864890,credit_card,autopay,applied,,invoice,2949,,0.61
+"The Point Group",CUST-00471,2025-10-20,usd,8.42,0,11271864693,credit_card,autopay,applied,,invoice,2937,,8.42
+GlueStick,CUST-00082,2025-10-20,usd,29.78,0,81267682874,ach,autopay,applied,,invoice,2926,,29.78
+"Payoff Genius",CUST-00175,2025-10-20,usd,32.05,0,81267682855,ach,autopay,applied,,invoice,2925,,32.05
+"Film Snap",CUST-00160,2025-10-20,usd,54.79,0,LCM6RXB3L26G66G3,credit_card,autopay,applied,,invoice,2912,,54.79
+"Prime Time Media Networks Incorporated",CUST-00818,2025-10-20,usd,103.8,0,VNFHC236DXM92LF3,credit_card,autopay,applied,,invoice,2908,,103.8
+Indigo,CUST-00701,2025-10-20,usd,129.96,0,H779HJ3WTX7BPBF3,credit_card,autopay,applied,,invoice,2904,,129.96
+"Nellie Health LLC",CUST-00982,2025-10-20,usd,206.36,0,T2XR3DFJLH47GHD3,credit_card,autopay,applied,,invoice,2898,,206.36
+"Allied Industrial Group",CUST-00105,2025-10-20,usd,258.73,0,81267682621,ach,autopay,applied,,invoice,2895,,258.73
+"Thynk Capital LLC",CUST-00103,2025-10-20,usd,281.72,0,11271863149,credit_card,autopay,applied,,invoice,2892,,281.72
+soundethics.ai,CUST-00518,2025-10-20,usd,334.3,0,11271863087,credit_card,autopay,applied,,invoice,2891,,334.3
+"Misapplied Sciences, Inc.",CUST-00215,2025-10-20,usd,401.14,0,JZ26CJ3WTX7BPBF3,credit_card,autopay,applied,,invoice,2888,,401.14
+"The Perfect Shipping Inc",CUST-00182,2025-10-20,usd,450.57,0,81267682472,ach,autopay,applied,,invoice,2887,,450.57
+PopShap,CUST-00165,2025-10-20,usd,545.55,0,MQ0289632511,credit_card,autopay,applied,,invoice,2883,,545.55
+ToandFrom,CUST-00139,2025-10-20,usd,657.14,0,TW273GQ788NQ3WD3,credit_card,autopay,applied,,invoice,2879,,657.14
+"Axion Data Services",CUST-00112,2025-10-20,usd,858.02,0,B8348J4S4HGQTHG3,credit_card,autopay,applied,,invoice,2876,,858.02
+Exirio,CUST-00550,2025-10-20,usd,994.46,0,11271861570,credit_card,autopay,applied,,invoice,2864,,994.46
+"Coral Vita",CUST-00223,2025-10-20,usd,1250.35,0,L8TGVZ26DXM92LF3,credit_card,autopay,applied,,invoice,2853,,1250.35
+"Datacabinet Corporation",CUST-00078,2025-10-20,usd,1536.55,0,MS0291442085,credit_card,autopay,applied,,invoice,2844,,1536.55
+"Propel Business Intelligence",CUST-00025,2025-10-20,usd,1745.31,0,MQ0289632479,credit_card,autopay,applied,,invoice,2843,,1745.31
+"Nobex Technologies",CUST-00718,2025-10-20,usd,1892.08,0,TBJ54D25GB6W7HF3,credit_card,autopay,applied,,invoice,2833,,1892.08
+WebforceHQ,CUST-00108,2025-10-20,usd,2564.38,0,MU0262341572,credit_card,autopay,applied,,invoice,2829,,2564.38
+"LASHTRED INC",CUST-00190,2025-10-20,usd,2692.88,0,11271859905,credit_card,autopay,applied,,invoice,2826,,2692.88
+Eduready360,CUST-00154,2025-10-20,usd,3186.46,0,81267681768,ach,autopay,applied,,invoice,2825,,3186.46
+"Peer Supply, Inc.",CUST-00764,2025-10-20,usd,3515.04,0,XFWWQH3WTX7BPBF3,credit_card,autopay,applied,,invoice,2823,,3515.04
+"Caffeine, Inc.",CUST-00006,2025-10-20,usd,3212.95,0,81267681683,ach,autopay,applied,,invoice,2821,,3212.95
+"Dovr Media",CUST-00079,2025-10-20,usd,3754.87,0,1aasazuv9ga3,ach,autopay,applied,,invoice,2818,,3754.87
+"AFrameSoftware, LLC",CUST-00002,2025-10-20,usd,4203.99,0,X9W9WGXZMDPRS6F3,credit_card,autopay,applied,,invoice,2817,,4203.99
+Clipbook,CUST-00137,2025-10-20,usd,4641.13,0,XJBDVGXZMDPRS6F3,credit_card,autopay,applied,,invoice,2814,,4641.13
+"1080 Network, Inc (d.b.a. Mica)",CUST-00111,2025-10-20,usd,5049.59,0,11271858865,credit_card,autopay,applied,,invoice,2812,,5049.59
+Kovaak,CUST-00109,2025-10-20,usd,7202.82,0,HZ9XKZ26RQ9QTHG3,ach,autopay,applied,,invoice,2808,,7202.82
+"The Bus Network LLC",CUST-00037,2025-10-20,usd,8839.89,0,1aasazjrgeey,ach,autopay,applied,,invoice,2799,,8839.89
+RXNT,CUST-00107,2025-10-20,usd,10445.76,0,XKJKP99JNCJ22LG3,credit_card,autopay,applied,,invoice,2796,,10445.76
+"The AAM Group",CUST-00155,2025-10-20,usd,11516.82,0,FZDJHH4S4HGQTHG3,credit_card,autopay,applied,,invoice,2795,,11516.82
+Backbone,CUST-00230,2025-10-20,usd,10710.42,0,81267681325,ach,autopay,applied,,invoice,2794,,10710.42
+IronWiFi,CUST-00014,2025-10-20,usd,11465.46,0,Z5DLL99JNCJ22LG3,credit_card,autopay,applied,,invoice,2792,,11465.46
+"Veriswap Inc",CUST-00043,2025-10-20,usd,11737.2,0,11271857648,credit_card,autopay,applied,,invoice,2791,,11737.2
+"After Transparency",CUST-00072,2025-10-20,usd,16096.04,0,FPT2XBFJLH47GHD3,credit_card,autopay,applied,,invoice,2789,,16096.04
+"World 50",CUST-00128,2025-10-20,usd,18158.98,0,MU0262341540,credit_card,autopay,applied,,invoice,2788,,18158.98
+Elate,CUST-00221,2025-10-20,usd,18510.65,0,11271857164,credit_card,autopay,applied,,invoice,2787,,18510.65
+"Longitude Ads",CUST-00085,2025-10-20,usd,22324.16,0,81267681035,ach,autopay,applied,,invoice,2785,,22324.16
+Variphy,CUST-00042,2025-10-20,usd,29745.88,0,1aasayt3twwp,ach,autopay,applied,,invoice,2778,,29745.88
+"Gradient Health",CUST-00815,2025-10-20,usd,216866.54,0,PM01N6TQAZ5BGE,direct_debit,autopay,applied,,invoice,2772,,216866.54
+BrilliantBiome,CUST-00668,2025-10-20,usd,610.11,0,PM01N6TQAP8RK3,direct_debit,autopay,applied,,invoice,2878,,610.11
+"Number Sentry",CUST-00628,2025-10-20,usd,28037.24,0,PM01N6TQABX0E9,direct_debit,autopay,applied,,invoice,2781,,28037.24
+"Approval Pathway Data Processing Inc.",CUST-00894,2025-10-20,cad,1461.98,0,PM01N6TQ9WPX20,direct_debit,autopay,applied,,invoice,2862,,1461.98
+"Trinity Underwriting Managers",CUST-00957,2025-10-20,cad,13.59,0,PM01N6TQ9Q930R,direct_debit,autopay,applied,,invoice,2936,,13.59
+Oloround,CUST-00022,2025-10-20,usd,72.13,0,MU0262340374,credit_card,autopay,applied,,invoice,2921,,72.13
+MyLogIQ,CUST-00446,2025-10-20,usd,9699.42,0,11271754578,credit_card,autopay,applied,,invoice,2798,,9699.42
+ECRI,CUST-00170,2025-10-20,usd,19502.18,0,81267647592,ach,autopay,applied,,invoice,2786,,19502.18
+LootMogul,CUST-00180,2025-10-20,usd,302.4,0,WZWPZ69FC4NV26H6,credit_card,autopay,applied,,invoice,2849,,302.4
+"Jukebox Health",CUST-00461,2025-10-20,usd,6428.09,0,PM01N5C6DSRBEN,direct_debit,autopay,applied,,invoice,2828,,6428.09
+"Runzy, Inc.",CUST-00747,2025-10-19,usd,899.43,0,GS6QMD8XR4NLBQG3,credit_card,autopay,applied,,invoice,2872,,899.43
+EngageCX,CUST-00173,2025-10-19,usd,4230.35,0,QJTK7VM4GB6W7HF3,credit_card,autopay,applied,,invoice,2867,,4230.35
+"bERZZANI, INC.",CUST-00697,2025-10-19,usd,1976.22,0,CKCPZMQFRMTPTVD3,credit_card,autopay,applied,,invoice,2840,,1976.22
+"Wasteology Group Transportation, LLC",CUST-00944,2025-10-19,usd,5231.44,0,SRGWNBXQ5F843SF3,credit_card,autopay,applied,,invoice,2811,,5231.44
+"Maximum Effort",CUST-00663,2025-10-19,usd,14194.29,0,VQ594BC6BL6D9SD3,credit_card,autopay,applied,,invoice,2790,,14194.29
+"Secured Health",CUST-00460,2025-10-19,usd,222.35,0,PM01N5C5BQNMQR,direct_debit,autopay,applied,,invoice,2896,,222.35
+"Hawx Smart Pest Control",CUST-00736,2025-10-19,usd,73469.53,0,PM01N5C5DAZ311,direct_debit,autopay,applied,,invoice,2776,,73469.53
+"Hybrid Tech Solutions Ltd.",CUST-00445,2025-10-19,usd,1490,0,11270649352,credit_card,autopay,applied,,invoice,2951,,1490
+micro1,CUST-00231,2025-10-19,usd,1091.78,0,PM01N4YJQYP468,direct_debit,autopay,applied,,invoice,2959,,1091.78
+hovisauto.com,CUST-01015,2025-10-19,usd,44.09,0,PM01N4YJQMEKGF,direct_debit,autopay,applied,,invoice,2957,,44.09
+"Leverage with Media PR",CUST-00881,2025-10-19,usd,240.45,0,PM01N4YJQVFW3G,direct_debit,autopay,applied,,invoice,2958,,240.45
+"Detmar Logistics LLC",CUST-00939,2025-10-19,usd,957.6,0,PM01N4YJQBMTCH,direct_debit,autopay,applied,,invoice,2953,,957.6
+"Expert Micro1",CUST-00918,2025-10-19,usd,10476,0,PM01N4YJQGQSJN,direct_debit,autopay,applied,,invoice,2955,,10476
+fitasy.ai,CUST-00792,2025-10-19,usd,112,0,PM01N4YJQ07B1D,direct_debit,autopay,applied,,invoice,2861,,112
+32flavors.com,CUST-00952,2025-10-19,usd,1051.73,0,PM01N4YJQ4MAK9,direct_debit,autopay,applied,,invoice,2952,,1051.73
+"Five Borough FP",CUST-00762,2025-10-19,usd,210.78,210.78,PM01N4YJPRTBY2,direct_debit,autopay,voided,,,,,
+michellegerson.com,CUST-00946,2025-10-19,usd,179.65,0,PM01N4YJP27ZCC,direct_debit,autopay,applied,,invoice,2855,,179.65
+"NZXT, Inc.",CUST-00708,2025-10-19,usd,9472.67,0,WND2JFFVBKCQ9ZZ3,credit_card,autopay,applied,,invoice,2845,,9472.67
+"Mendrix, Inc.",CUST-00440,2025-10-19,usd,8.4,0,PM01N4YJJQS1MF,direct_debit,autopay,applied,,invoice,2836,,8.4
+"Fora Travel",CUST-00439,2025-10-19,usd,306247.19,0,PM01N4YJHVTC75,direct_debit,autopay,applied,,invoice,2960,,306247.19
+"Sunrise Motorsports",CUST-00717,2025-10-19,usd,960.96,0,PM01N4YJJ7P3MA,direct_debit,autopay,applied,,invoice,2835,,960.96
+"Papa Haydn",CUST-00763,2025-10-18,usd,122.45,0,SHXPQ46ZR94TGXQ9,credit_card,autopay,applied,,invoice,2838,,122.45
+"VIZ Media, LLC.",CUST-00044,2025-10-17,usd,7935.23,0,,other,accounting_system,applied,,invoice,2802,,7935.23
+Omnic.AI,CUST-00929,2025-10-16,usd,9.3,0,235157,check,keyed,applied,,invoice,2724,,9.3
+DocuSketch,CUST-00467,2025-10-16,usd,6609.27,0,,other,accounting_system,applied,,invoice,2954,,6609.27
+"CURE International, Inc.",CUST-00009,2025-10-16,usd,2656.44,0,,other,accounting_system,applied,,invoice,2827,,2656.44
+"Strategic Systems & Technology",CUST-00886,2025-10-16,usd,2500,0,PM01N26EZX3BZB,direct_debit,autopay,applied,,invoice,2771,,2500
+"Jenni Kayne",CUST-00084,2025-10-15,usd,330.31,0,,other,accounting_system,applied,,invoice,2858,,330.31
+oceanstatemedia.org,CUST-01016,2025-10-15,usd,14875,0,PM01N15YPGBY34,direct_debit,autopay,applied,,invoice,2769,,14875
+"EnrollHere Inc",CUST-00493,2025-10-14,usd,1250,0,PM01N0R313VW36,direct_debit,autopay,applied,,invoice,2766,,1250
+Hillspire,CUST-00720,2025-10-14,usd,23807.54,0,,other,accounting_system,applied,,invoice,2782,,23807.54
+"Argo AI",CUST-00548,2025-10-13,usd,17.42,0,PM01MZBVW6VKFB,direct_debit,autopay,applied,,invoice,2719,,17.42
+"BREAKING HITS",CUST-00224,2025-10-13,usd,1559.27,1559.27,PM01MZBVVJF8RE,direct_debit,autopay,voided,,,,,
+"BabyFlix Media Inc.",CUST-00795,2025-10-13,usd,1006.01,1006.01,PM01MZBVVXZAPM,direct_debit,autopay,voided,,,,,
+"US Mall",CUST-00041,2025-10-11,usd,42154.59,0,MZ4SNSBXGB7WXLG6,credit_card,customer_portal,applied,,invoice,2586,,42154.59
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-10-10,usd,3349.75,0,,other,accounting_system,applied,,invoice,2770,,3349.75
+"Greater Oregon Behavioral Health, Inc. (GOBHI)",CUST-00012,2025-10-10,usd,11334.18,0,,other,accounting_system,applied,,invoice,2956,,11334.18
+Tactiq,CUST-00865,2025-10-10,usd,8500,0,,other,accounting_system,applied,,invoice,2768,,8500
+"Cross Insurance",CUST-00791,2025-10-09,usd,3500,0,PM01MVZT2HWZFP,direct_debit,autopay,applied,,invoice,2760,,3500
+"Make the Dot",CUST-00652,2025-10-09,usd,1326.32,0,PM01MVXFCDP7J7,direct_debit,customer_portal,applied,,invoice,2281,,1326.32
+"Market Ads LLC",CUST-00017,2025-10-09,usd,11190.32,0,PM01MVWZRVJTVZ,direct_debit,autopay,applied,,invoice,2404,,11190.32
+"Longitude Ads",CUST-00085,2025-10-09,usd,3025,0,81246613407,ach,autopay,applied,,invoice,2763,,3025
+RXNT,CUST-00107,2025-10-09,usd,9625,0,QQWWJ2G43656R7H6,credit_card,autopay,applied,,invoice,2762,,9625
+michellegerson.com,CUST-00946,2025-10-09,usd,1900,0,PM01MTQARWFRH5,direct_debit,autopay,applied,,invoice,2761,,1900
+"Krona Corporation",CUST-00979,2025-10-08,usd,0,0,,other,keyed,applied,,credit_note,2918,CN-097,42.07
+w8less,CUST-00191,2025-10-08,usd,3.81,0,PM01MSHRJ1R5QP,direct_debit,virtual_terminal,applied,,invoice,2528,,1.61
+,,,,,,,,,,,invoice,2733,,1.23
+,,,,,,,,,,,invoice,2948,,0.97
+"BREAKING HITS",CUST-00224,2025-10-08,usd,1358.67,0,PM01MS9R6FHXGY,direct_debit,customer_portal,applied,,invoice,2449,,1358.67
+Sandstorm,CUST-00784,2025-10-08,usd,599.94,0,PM01MS6J2CNXJK,direct_debit,customer_portal,applied,,invoice,2905,,125.56
+,,,,,,,,,,,invoice,2675,,474.38
+iTrials,CUST-00785,2025-10-07,usd,778.12,0,PM01MRYY3PT3P3,direct_debit,customer_portal,applied,,invoice,2687,,267.84
+,,,,,,,,,,,invoice,2486,,273.2
+,,,,,,,,,,,invoice,2333,,237.08
+"contentplace inc.",CUST-00893,2025-10-06,usd,0,0,,other,keyed,voided,,,,,
+"Oak Essentials",CUST-00091,2025-10-06,usd,180,0,,other,accounting_system,applied,,invoice,2742,,180
+"SigNoz Inc",CUST-00031,2025-10-06,usd,111277.46,0,PM01MPBH80DVFR,direct_debit,customer_portal,applied,,invoice,2773,,111277.46
+SugarCRM,CUST-00820,2025-10-04,usd,0,0,,other,keyed,applied,,credit_note,2831,CN-095,1902.34
+32flavors.com,CUST-00952,2025-10-04,usd,3000,0,PM01MN0K5FX8K3,direct_debit,autopay,applied,,invoice,2764,,3000
+"Argo AI",CUST-00548,2025-10-03,usd,17.42,17.42,PM01MMG04FW2EN,direct_debit,autopay,voided,,,,,
+"BREAKING HITS",CUST-00224,2025-10-03,usd,1559.27,1559.27,PM01MMG03W209S,direct_debit,autopay,voided,,,,,
+"BabyFlix Media Inc.",CUST-00795,2025-10-03,usd,1006.01,1006.01,PM01MMG043YG6Z,direct_debit,autopay,voided,,,,,
+Google,CUST-00011,2025-10-03,usd,39000,0,,other,accounting_system,applied,,invoice,GGL01,,39000
+Google,CUST-00011,2025-10-02,usd,0,0,,other,keyed,applied,,credit_note,FR-0050976,CN-094,2325
+"EnrollHere Inc",CUST-00493,2025-10-01,usd,122880,0,PM01MGYR1JK7ZF,direct_debit,virtual_terminal,applied,,invoice,2767,,122880
+"Shiza AI",CUST-00030,2025-10-01,usd,0,0,,other,keyed,applied,,credit_note,1507,CN-093,18937.82
+"Thought Foundry, Inc.",CUST-00039,2025-10-01,usd,4624.41,0,,other,accounting_system,applied,,invoice,2617,,4624.41

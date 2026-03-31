@@ -1,0 +1,5 @@
+{
+  "name": "CommisPro - Advanced Commission Calculator",
+  "description": "A robust commission calculation engine that allows you to upload sales data via CSV, store it in a local database, and apply complex business logic via natural language instructions powered by Gemini.",
+  "requestFramePermissions": []
+}
